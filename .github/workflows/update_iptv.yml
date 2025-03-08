@@ -26,7 +26,7 @@ jobs:
     
     - name: Run IPTV update script
       run: |
-        python D:\iptv_project\iptv_scraper.py
+        python iptv_scraper.py
     
     - name: Commit and push updated M3U file
       run: |
