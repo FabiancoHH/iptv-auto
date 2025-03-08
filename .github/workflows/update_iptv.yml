@@ -28,10 +28,15 @@ jobs:
       run: |
         python iptv_scraper.py
     
-    - name: Commit and push updated M3U file
+    - name: Set up GitHub token
       run: |
         git config --global user.name 'GitHub Actions'
         git config --global user.email 'actions@github.com'
+        git config --global credential.helper store
+        echo "https://${{ secrets.GH_TOKEN }}:@github.com" > ~/.git-credentials
+
+    - name: Commit and push updated M3U file
+      run: |
         git add lista_iptv.m3u
         git commit -m 'Aggiorna la lista IPTV'
-        git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/FabiancoHH/iptv-auto.git
+        git push
