@@ -5,17 +5,15 @@
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220220/original/pngtree-television-logo-with-antena-png-image_7271918.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEPBjXm5XyTS4Xh-EAI4M7MUEfMv9yjElrow&s", Brentford - Aston Villa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/2048px-Bundesliga_-_Logo_2017.svg.png", Eintracht Frankfurt - Union Berlin
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png", Friburgo - Lipsia
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Empoli - Roma
 
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/LL_RGB_h_color/LL_RGB_h_color.png", Valencia - Valladolid
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/LL_RGB_h_color/LL_RGB_h_color.png", Athletic Club - Mallorca
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBmxv5RBBxUMlAyPZmoUCc1JiLUDokExR-1g&s", Brescia - Cesena
+#EXTINF:-1 tvg-logo="https://i0.wp.com/agenparl.eu/wp-content/uploads/2024/09/image001-37.png?fit=324%2C472&ssl=1", Benevento - Casertana
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Inter - Monza
-
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/LL_RGB_h_color/LL_RGB_h_color.png", Barcellona - Osasuna
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Juventus - Atalanta
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -39,42 +37,34 @@ https://www.guardaserie01.bio/
 https://calcio.monster/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.monster/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", Benfica
+#EXTINF:-1 tvg-logo="Logo non disponibile", Casa Pia
 VS
-Nacional
-https://calcio.monster/live/benfica-vs-nacional
-#EXTINF:-1 tvg-logo="Logo non disponibile", Lilla
+Sporting
+https://calcio.monster/live/casa-pia-vs-sporting
+#EXTINF:-1 tvg-logo="Logo non disponibile", Casertana
 VS
-Montpellier
-https://calcio.monster/live/lilla-vs-montpellier
-#EXTINF:-1 tvg-logo="Logo non disponibile", Brescia
+Benevento
+https://calcio.monster/live/casertana-vs-benevento
+#EXTINF:-1 tvg-logo="Logo non disponibile", Juventus
 VS
-Cesena
-https://calcio.monster/live/brescia-vs-cesena
-#EXTINF:-1 tvg-logo="Logo non disponibile", Inter
+Atalanta
+https://calcio.monster/live/juventus-vs-atalanta
+#EXTINF:-1 tvg-logo="Logo non disponibile", Nizza
 VS
-Monza
-https://calcio.monster/live/inter-vs-monza
-#EXTINF:-1 tvg-logo="Logo non disponibile", Barcellona
+Lione
+https://calcio.monster/live/nizza-vs-lione
+#EXTINF:-1 tvg-logo="Logo non disponibile", Real Sociedad
 VS
-Osasuna
-https://calcio.monster/live/barcellona-vs-osasuna
-#EXTINF:-1 tvg-logo="Logo non disponibile", Wolves
+Siviglia
+https://calcio.monster/live/real-sociedad-vs-siviglia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Boavista
 VS
-Everton
-https://calcio.monster/live/wolves-vs-everton
-#EXTINF:-1 tvg-logo="Logo non disponibile", Marsiglia
+Guimaraes
+https://calcio.monster/live/boavista-vs-guimaraes
+#EXTINF:-1 tvg-logo="Logo non disponibile", River Plate
 VS
-Lens
-https://calcio.monster/live/marsiglia-vs-lens
-#EXTINF:-1 tvg-logo="Logo non disponibile", San Lorenzo
-VS
-Independiente
-https://calcio.monster/live/san-lorenzo-vs-independiente
-#EXTINF:-1 tvg-logo="Logo non disponibile", Braga
-VS
-FC Porto
-https://calcio.monster/live/braga-vs-fc-porto
+Atl. Tucuman
+https://calcio.monster/live/river-plate-vs-atl-tucuman
 #EXTINF:-1 tvg-logo="Logo non disponibile", Sky Sport
 VS
 NBA
