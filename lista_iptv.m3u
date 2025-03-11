@@ -5,15 +5,9 @@
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220220/original/pngtree-television-logo-with-antena-png-image_7271918.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/2048px-Bundesliga_-_Logo_2017.svg.png", Eintracht Frankfurt - Union Berlin
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Lazio - Udinese
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Empoli - Roma
-
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/LL_RGB_h_color/LL_RGB_h_color.png", Athletic Club - Mallorca
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/agenparl.eu/wp-content/uploads/2024/09/image001-37.png?fit=324%2C472&ssl=1", Benevento - Casertana
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Juventus - Atalanta
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXmJnql149rVW3m7zUOWB51iBd3firIobTpw&s", West Ham - Newcastle
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -37,34 +31,26 @@ https://www.guardaserie01.bio/
 https://calcio.monster/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.monster/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", Casa Pia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Talleres Cordoba
 VS
-Sporting
-https://calcio.monster/live/casa-pia-vs-sporting
-#EXTINF:-1 tvg-logo="Logo non disponibile", Casertana
+Rosario
+https://calcio.monster/live/talleres-cordoba-vs-rosario
+#EXTINF:-1 tvg-logo="Logo non disponibile", Lazio
 VS
-Benevento
-https://calcio.monster/live/casertana-vs-benevento
-#EXTINF:-1 tvg-logo="Logo non disponibile", Juventus
+Udinese
+https://calcio.monster/live/lazio-vs-udinese
+#EXTINF:-1 tvg-logo="Logo non disponibile", West Ham
 VS
-Atalanta
-https://calcio.monster/live/juventus-vs-atalanta
-#EXTINF:-1 tvg-logo="Logo non disponibile", Nizza
+Newcastle
+https://calcio.monster/live/west-ham-vs-newcastle
+#EXTINF:-1 tvg-logo="Logo non disponibile", Espanyol
 VS
-Lione
-https://calcio.monster/live/nizza-vs-lione
-#EXTINF:-1 tvg-logo="Logo non disponibile", Real Sociedad
+Girona
+https://calcio.monster/live/espanyol-vs-girona
+#EXTINF:-1 tvg-logo="Logo non disponibile", Famalicao
 VS
-Siviglia
-https://calcio.monster/live/real-sociedad-vs-siviglia
-#EXTINF:-1 tvg-logo="Logo non disponibile", Boavista
-VS
-Guimaraes
-https://calcio.monster/live/boavista-vs-guimaraes
-#EXTINF:-1 tvg-logo="Logo non disponibile", River Plate
-VS
-Atl. Tucuman
-https://calcio.monster/live/river-plate-vs-atl-tucuman
+Rio Ave
+https://calcio.monster/live/famalicao-vs-rio-ave
 #EXTINF:-1 tvg-logo="Logo non disponibile", Sky Sport
 VS
 NBA
