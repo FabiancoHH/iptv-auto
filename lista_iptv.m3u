@@ -5,9 +5,27 @@
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220220/original/pngtree-television-logo-with-antena-png-image_7271918.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Lazio - Udinese
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Pontedera - Pescara
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXmJnql149rVW3m7zUOWB51iBd3firIobTpw&s", West Ham - Newcastle
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Pineto - Milan Futuro
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Perugia - Torres
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Pianese - Spal
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Barcellona - Benfica
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Ternana - Sestri Levante
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Lucchese - Entella
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Diretta Goal
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Inter - Feyenoord
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Liverpool - PSG
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Bayer Lev. - Bayern Monaco
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -31,26 +49,38 @@ https://www.guardaserie01.bio/
 https://calcio.monster/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.monster/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", Talleres Cordoba
+#EXTINF:-1 tvg-logo="Logo non disponibile", Ternana
 VS
-Rosario
-https://calcio.monster/live/talleres-cordoba-vs-rosario
-#EXTINF:-1 tvg-logo="Logo non disponibile", Lazio
+Sestri Levante
+https://calcio.monster/live/ternana-vs-sestri-levante
+#EXTINF:-1 tvg-logo="Logo non disponibile", Lucchese
 VS
-Udinese
-https://calcio.monster/live/lazio-vs-udinese
-#EXTINF:-1 tvg-logo="Logo non disponibile", West Ham
+Entella
+https://calcio.monster/live/lucchese-vs-entella
+#EXTINF:-1 tvg-logo="Logo non disponibile", Campobasso
 VS
-Newcastle
-https://calcio.monster/live/west-ham-vs-newcastle
-#EXTINF:-1 tvg-logo="Logo non disponibile", Espanyol
+Ascoli
+https://calcio.monster/live/campobasso-vs-ascoli
+#EXTINF:-1 tvg-logo="Logo non disponibile", Vis Pesaro
 VS
-Girona
-https://calcio.monster/live/espanyol-vs-girona
-#EXTINF:-1 tvg-logo="Logo non disponibile", Famalicao
+Gubbio
+https://calcio.monster/live/vis-pesaro-vs-gubbio
+#EXTINF:-1 tvg-logo="Logo non disponibile", Diretta Gol
 VS
-Rio Ave
-https://calcio.monster/live/famalicao-vs-rio-ave
+Champions League
+https://calcio.monster/live/diretta-gol-vs-champions-league
+#EXTINF:-1 tvg-logo="Logo non disponibile", Inter
+VS
+Feyenoord
+https://calcio.monster/live/inter-vs-feyenoord
+#EXTINF:-1 tvg-logo="Logo non disponibile", Liverpool
+VS
+PSG
+https://calcio.monster/live/liverpool-vs-psg
+#EXTINF:-1 tvg-logo="Logo non disponibile", Leverkusen
+VS
+Bayern
+https://calcio.monster/live/leverkusen-vs-bayern
 #EXTINF:-1 tvg-logo="Logo non disponibile", Sky Sport
 VS
 NBA
