@@ -5,24 +5,6 @@
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220220/original/pngtree-television-logo-with-antena-png-image_7271918.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Vicenza - Novara
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Albinoleffe - Triestina
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRaZZI3bYrCWhUD_nmPIam4pJ3w828FoT7w&s", Diretta Goal
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRaZZI3bYrCWhUD_nmPIam4pJ3w828FoT7w&s", Lione - FCSB
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRaZZI3bYrCWhUD_nmPIam4pJ3w828FoT7w&s", Manchester United - Real Sociedad
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRaZZI3bYrCWhUD_nmPIam4pJ3w828FoT7w&s", Tottenham - AZ
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRaZZI3bYrCWhUD_nmPIam4pJ3w828FoT7w&s", Rangers - FenerbahÃ§e
-
-#EXTINF:-1 tvg-logo="https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png", Fiorentina - Panathinaikos
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKSYQH-1iKPjuhuwoGZbInW843xSe7u5dWQ&s", Pechino Express
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png", Gp Australia (libere 1)
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png", Gp Australia (libere 2)
@@ -30,6 +12,14 @@
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/fp-media/1/2023/09/GettyImages-1243722987.jpg", Gp Argentina (libere 1)
 
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/fp-media/1/2023/09/GettyImages-1243722987.jpg", Gp Argentina (libere 2)
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBYBIlfHfIyDZFwEEfCllhyai78SGyZPfo-w&s", Palermo - Cremonese
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/2048px-Bundesliga_-_Logo_2017.svg.png", St. Pauli - Hoffenheim
+
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/serie_a-brandlogo.net_-512x512.png", Genoa - Lecce
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmdHykwC3Z0x7zI-Aq7NpaHM1WoA2gIhsB_Q&s", Nizza - Auxerre
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -61,50 +51,34 @@ https://calcio.monster/live/formula-1-vs-gp-australia
 VS
 Termas de Rio Hondo (Argentina)
 https://calcio.monster/live/motogp-vs-termas-de-rio-hondo-argentina-
-#EXTINF:-1 tvg-logo="Logo non disponibile", Diretta Gol
+#EXTINF:-1 tvg-logo="Logo non disponibile", Al Nassr FC
 VS
-Europa
-https://calcio.monster/live/diretta-gol-vs-europa
-#EXTINF:-1 tvg-logo="Logo non disponibile", Al-Ittihad FC
+Al Kholood
+https://calcio.monster/live/al-nassr-fc-vs-al-kholood
+#EXTINF:-1 tvg-logo="Logo non disponibile", Palermo
 VS
-Al Riyadh
-https://calcio.monster/live/al-ittihad-fc-vs-al-riyadh
-#EXTINF:-1 tvg-logo="Logo non disponibile", L.R. Vicenza
+Cremonese
+https://calcio.monster/live/palermo-vs-cremonese
+#EXTINF:-1 tvg-logo="Logo non disponibile", St. Pauli
 VS
-Novara
-https://calcio.monster/live/l-r-vicenza-vs-novara
-#EXTINF:-1 tvg-logo="Logo non disponibile", AlbinoLeffe
+Hoffenheim
+https://calcio.monster/live/st-pauli-vs-hoffenheim
+#EXTINF:-1 tvg-logo="Logo non disponibile", Genoa
 VS
-Triestina
-https://calcio.monster/live/albinoleffe-vs-triestina
-#EXTINF:-1 tvg-logo="Logo non disponibile", Pro Vercelli
+Lecce
+https://calcio.monster/live/genoa-vs-lecce
+#EXTINF:-1 tvg-logo="Logo non disponibile", Nizza
 VS
-Atalanta U23
-https://calcio.monster/live/pro-vercelli-vs-atalanta-u23
-#EXTINF:-1 tvg-logo="Logo non disponibile", Alcione Milano
+Auxerre
+https://calcio.monster/live/nizza-vs-auxerre
+#EXTINF:-1 tvg-logo="Logo non disponibile", Las Palmas
 VS
-Lecco
-https://calcio.monster/live/alcione-milano-vs-lecco
-#EXTINF:-1 tvg-logo="Logo non disponibile", Lione
+Alaves
+https://calcio.monster/live/las-palmas-vs-alaves
+#EXTINF:-1 tvg-logo="Logo non disponibile", Godoy Cruz
 VS
-FCSB
-https://calcio.monster/live/lione-vs-fcsb
-#EXTINF:-1 tvg-logo="Logo non disponibile", Fiorentina
-VS
-Panathinaikos
-https://calcio.monster/live/fiorentina-vs-panathinaikos
-#EXTINF:-1 tvg-logo="Logo non disponibile", Manchester Utd
-VS
-Real Sociedad
-https://calcio.monster/live/manchester-utd-vs-real-sociedad
-#EXTINF:-1 tvg-logo="Logo non disponibile", Tottenham
-VS
-Alkmaar
-https://calcio.monster/live/tottenham-vs-alkmaar
-#EXTINF:-1 tvg-logo="Logo non disponibile", Rangers
-VS
-Fenerbahce
-https://calcio.monster/live/rangers-vs-fenerbahce
+San Lorenzo
+https://calcio.monster/live/godoy-cruz-vs-san-lorenzo
 #EXTINF:-1 tvg-logo="Logo non disponibile", Sky Sport
 VS
 NBA
