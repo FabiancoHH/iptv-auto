@@ -5,23 +5,13 @@
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220220/original/pngtree-television-logo-with-antena-png-image_7271918.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://storage.googleapis.com/fp-media/1/2023/09/GettyImages-1243722987.jpg", Gp Argentina
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/e/ed/ATP_tour_logo.png", ATP Miami
 
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/serie_a-brandlogo.net_-512x512.png", Fiorentina - Juventus
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/7xjtuy1554397263.png", Maccabi - Bologna
 
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Rayo V. - Real Sociedad
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/7xjtuy1554397263.png", Perugia - Monza
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/2048px-Bundesliga_-_Logo_2017.svg.png", Stoccarda - Bayer Lev
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/agenparl.eu/wp-content/uploads/2024/12/image002-6.png?fit=324%2C472&ssl=1", Messina - Catania
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEPBjXm5XyTS4Xh-EAI4M7MUEfMv9yjElrow&s", Leicester - Manchester United
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/agenparl.eu/wp-content/uploads/2024/12/image002-6.png?fit=324%2C472&ssl=1", Casertana - Sorrento
-
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/serie_a-brandlogo.net_-512x512.png", Atalanta - Inter
-
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Atl Madrid - Barcellona
+#EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2024/09/UEFA-Nations-League-Logo-300x300.png.webp", Italia - Germania
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -45,18 +35,26 @@ https://www.guardaserie01.bio/
 https://calcio.monster/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.monster/page/contact
+#EXTINF:-1 tvg-logo="Logo non disponibile", FORMULA 1
+VS
+GP Cina
+https://calcio.monster/live/formula-1-vs-gp-cina
+#EXTINF:-1 tvg-logo="Logo non disponibile", Paraguay
+VS
+Cile
+https://calcio.monster/live/paraguay-vs-cile
+#EXTINF:-1 tvg-logo="Logo non disponibile", Brasile
+VS
+Colombia
+https://calcio.monster/live/brasile-vs-colombia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Perù
+VS
+Bolivia
+https://calcio.monster/live/per-vs-bolivia
 #EXTINF:-1 tvg-logo="Logo non disponibile", Snooker
 VS
 Players Championship
 https://calcio.monster/live/snooker-vs-players-championship
-#EXTINF:-1 tvg-logo="Logo non disponibile", Wolfsburg D
-VS
-Barcellona D
-https://calcio.monster/live/wolfsburg-d-vs-barcellona-d
-#EXTINF:-1 tvg-logo="Logo non disponibile", Manchester City D
-VS
-Chelsea D
-https://calcio.monster/live/manchester-city-d-vs-chelsea-d
 #EXTINF:-1 tvg-logo="Logo non disponibile", Sky Sport
 VS
 NBA
