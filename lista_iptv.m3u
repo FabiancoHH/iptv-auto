@@ -9,39 +9,25 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Diretta Goal
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Pontedera - Ascoli
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Vicenza - Caldiero
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Alcione - Pro Vercelli
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Virtus Verona - Lecco
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Legnano - Lucchese
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/80/UEFA_Nations_League.svg/250px-UEFA_Nations_League.svg.png", Scozia - Grecia
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Renate - Clodiense
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/80/UEFA_Nations_League.svg/250px-UEFA_Nations_League.svg.png", Serbia - Austria
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Juve NG - Foggia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/80/UEFA_Nations_League.svg/250px-UEFA_Nations_League.svg.png", Ungheria - Turchia
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/USA-Canada-Mexico_2026_World_Cup_Bid_Logo.svg/220px-USA-Canada-Mexico_2026_World_Cup_Bid_Logo.svg.png", Moldavia - Norvegia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/12/Logo_Lega_Basket_2018.png", Scafati - Napoli
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/USA-Canada-Mexico_2026_World_Cup_Bid_Logo.svg/220px-USA-Canada-Mexico_2026_World_Cup_Bid_Logo.svg.png", Montenegro - Gibilterra
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/80/UEFA_Nations_League.svg/250px-UEFA_Nations_League.svg.png", Germania - Italia
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/USA-Canada-Mexico_2026_World_Cup_Bid_Logo.svg/220px-USA-Canada-Mexico_2026_World_Cup_Bid_Logo.svg.png", Multicast
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/80/UEFA_Nations_League.svg/250px-UEFA_Nations_League.svg.png", Portogallo - Danimarca
 
-#EXTINF:-1 tvg-logo="https://www.lance.com.br/galerias/wp-content/uploads/2024/07/Logo-da-Formula-1-F1.jpg", Gp Cina
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/80/UEFA_Nations_League.svg/250px-UEFA_Nations_League.svg.png", Francia - Croazia
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Diretta Goal
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Novara - Padova
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Ternana - Perugia
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Gubbio - Entella
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Sestri Levante - Pescara
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Feralpi Salo - Trento
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Monopoli - Casertana
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Giugliano - Messina
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/80/UEFA_Nations_League.svg/250px-UEFA_Nations_League.svg.png", Spagna - Olanda
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -65,58 +51,26 @@ https://www.guardaserie01.bio/
 https://calcio.monster/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.monster/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", FORMULA 1
+#EXTINF:-1 tvg-logo="Logo non disponibile", Germania
 VS
-GP Cina
-https://calcio.monster/live/formula-1-vs-gp-cina
-#EXTINF:-1 tvg-logo="Logo non disponibile", Diretta Gol
+Italia
+https://calcio.monster/live/germania-vs-italia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Spagna
 VS
-Serie C
-https://calcio.monster/live/diretta-gol-vs-serie-c
-#EXTINF:-1 tvg-logo="Logo non disponibile", Juventus U23
+Olanda
+https://calcio.monster/live/spagna-vs-olanda
+#EXTINF:-1 tvg-logo="Logo non disponibile", Francia
 VS
-Foggia
-https://calcio.monster/live/juventus-u23-vs-foggia
-#EXTINF:-1 tvg-logo="Logo non disponibile", Pontedera
+Croazia
+https://calcio.monster/live/francia-vs-croazia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Portogallo
 VS
-Ascoli
-https://calcio.monster/live/pontedera-vs-ascoli
-#EXTINF:-1 tvg-logo="Logo non disponibile", Legnago Salus
+Danimarca
+https://calcio.monster/live/portogallo-vs-danimarca
+#EXTINF:-1 tvg-logo="Logo non disponibile", Belgio
 VS
-Lucchese
-https://calcio.monster/live/legnago-salus-vs-lucchese
-#EXTINF:-1 tvg-logo="Logo non disponibile", Alcione Milano
-VS
-Pro Vercelli
-https://calcio.monster/live/alcione-milano-vs-pro-vercelli
-#EXTINF:-1 tvg-logo="Logo non disponibile", Renate
-VS
-Union Clodiense
-https://calcio.monster/live/renate-vs-union-clodiense
-#EXTINF:-1 tvg-logo="Logo non disponibile", Moldavia
-VS
-Norvegia
-https://calcio.monster/live/moldavia-vs-norvegia
-#EXTINF:-1 tvg-logo="Logo non disponibile", Montenegro
-VS
-Gibilterra
-https://calcio.monster/live/montenegro-vs-gibilterra
-#EXTINF:-1 tvg-logo="Logo non disponibile", Arezzo
-VS
-Milan U23
-https://calcio.monster/live/arezzo-vs-milan-u23
-#EXTINF:-1 tvg-logo="Logo non disponibile", Galles
-VS
-Kazakistan
-https://calcio.monster/live/galles-vs-kazakistan
-#EXTINF:-1 tvg-logo="Logo non disponibile", Israele
-VS
-Estonia
-https://calcio.monster/live/israele-vs-estonia
-#EXTINF:-1 tvg-logo="Logo non disponibile", Repubblica Ceca
-VS
-Faerøerne
-https://calcio.monster/live/repubblica-ceca-vs-faer-erne
+Ucraina
+https://calcio.monster/live/belgio-vs-ucraina
 #EXTINF:-1 tvg-logo="Logo non disponibile", Snooker
 VS
 Players Championship
