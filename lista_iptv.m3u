@@ -7,27 +7,11 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/e/ed/ATP_tour_logo.png", ATP Miami
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Diretta Goal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Benevento - Picerno
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Vicenza - Caldiero
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Avellino - Potenza
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Virtus Verona - Lecco
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/80/UEFA_Nations_League.svg/250px-UEFA_Nations_League.svg.png", Scozia - Grecia
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/80/UEFA_Nations_League.svg/250px-UEFA_Nations_League.svg.png", Serbia - Austria
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/80/UEFA_Nations_League.svg/250px-UEFA_Nations_League.svg.png", Ungheria - Turchia
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/12/Logo_Lega_Basket_2018.png", Scafati - Napoli
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/80/UEFA_Nations_League.svg/250px-UEFA_Nations_League.svg.png", Germania - Italia
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/80/UEFA_Nations_League.svg/250px-UEFA_Nations_League.svg.png", Portogallo - Danimarca
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/80/UEFA_Nations_League.svg/250px-UEFA_Nations_League.svg.png", Francia - Croazia
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/80/UEFA_Nations_League.svg/250px-UEFA_Nations_League.svg.png", Spagna - Olanda
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/USA-Canada-Mexico_2026_World_Cup_Bid_Logo.svg/220px-USA-Canada-Mexico_2026_World_Cup_Bid_Logo.svg.png", Inghilterra - Lettonia
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -51,30 +35,42 @@ https://www.guardaserie01.bio/
 https://calcio.monster/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.monster/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", Germania
+#EXTINF:-1 tvg-logo="Logo non disponibile", Lituania
 VS
-Italia
-https://calcio.monster/live/germania-vs-italia
-#EXTINF:-1 tvg-logo="Logo non disponibile", Spagna
+Finlandia
+https://calcio.monster/live/lituania-vs-finlandia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Italia U21
 VS
-Olanda
-https://calcio.monster/live/spagna-vs-olanda
-#EXTINF:-1 tvg-logo="Logo non disponibile", Francia
+Danimarca U21
+https://calcio.monster/live/italia-u21-vs-danimarca-u21
+#EXTINF:-1 tvg-logo="Logo non disponibile", Avellino
 VS
-Croazia
-https://calcio.monster/live/francia-vs-croazia
-#EXTINF:-1 tvg-logo="Logo non disponibile", Portogallo
+Potenza
+https://calcio.monster/live/avellino-vs-potenza
+#EXTINF:-1 tvg-logo="Logo non disponibile", Benevento
 VS
-Danimarca
-https://calcio.monster/live/portogallo-vs-danimarca
-#EXTINF:-1 tvg-logo="Logo non disponibile", Belgio
+Picerno
+https://calcio.monster/live/benevento-vs-picerno
+#EXTINF:-1 tvg-logo="Logo non disponibile", Albania
 VS
-Ucraina
-https://calcio.monster/live/belgio-vs-ucraina
-#EXTINF:-1 tvg-logo="Logo non disponibile", Snooker
+Andorra
+https://calcio.monster/live/albania-vs-andorra
+#EXTINF:-1 tvg-logo="Logo non disponibile", Bosnia-Erzegovina
 VS
-Players Championship
-https://calcio.monster/live/snooker-vs-players-championship
+Cipro
+https://calcio.monster/live/bosnia-erzegovina-vs-cipro
+#EXTINF:-1 tvg-logo="Logo non disponibile", Inghilterra
+VS
+Lettonia
+https://calcio.monster/live/inghilterra-vs-lettonia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Polonia
+VS
+Malta
+https://calcio.monster/live/polonia-vs-malta
+#EXTINF:-1 tvg-logo="Logo non disponibile", San Marino
+VS
+Romania
+https://calcio.monster/live/san-marino-vs-romania
 #EXTINF:-1 tvg-logo="Logo non disponibile", Sky Sport
 VS
 NBA
