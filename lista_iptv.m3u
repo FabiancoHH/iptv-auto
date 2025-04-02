@@ -5,11 +5,13 @@
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220220/original/pngtree-television-logo-with-antena-png-image_7271918.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/serie_a-brandlogo.net_-512x512.png", Verona - Parma
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXmJnql149rVW3m7zUOWB51iBd3firIobTpw&s", Arsenal - Fulham
 
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/serie_a-brandlogo.net_-512x512.png", Lazio - Torino
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/a7/TIM_Cup_Logo.png", Empoli - Bologna
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/12/Logo_Lega_Basket_2018.png", Napoli - Milano
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjyZIqHx8RFSDWEjEJKRzSqkgjPXwVmGsZ3Q&s", Arminia Bielefeld - Bayer Leverkusen
+
+#EXTINF:-1 tvg-logo="Wolverhampton-West Ham", Nottingham Forest - Manchester United
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -33,26 +35,38 @@ https://www.guardaserie01.bio/
 https://calcio.monster/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.monster/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", Verona
+#EXTINF:-1 tvg-logo="Logo non disponibile", Arsenal
 VS
-Parma
-https://calcio.monster/live/verona-vs-parma
-#EXTINF:-1 tvg-logo="Logo non disponibile", Entella
+Fulham
+https://calcio.monster/live/arsenal-vs-fulham
+#EXTINF:-1 tvg-logo="Logo non disponibile", Wolves
 VS
-Torres
-https://calcio.monster/live/entella-vs-torres
-#EXTINF:-1 tvg-logo="Logo non disponibile", Lecco
+West Ham
+https://calcio.monster/live/wolves-vs-west-ham
+#EXTINF:-1 tvg-logo="Logo non disponibile", Bielefeld
 VS
-Giana Erminio
-https://calcio.monster/live/lecco-vs-giana-erminio
-#EXTINF:-1 tvg-logo="Logo non disponibile", Lazio
+Leverkusen
+https://calcio.monster/live/bielefeld-vs-leverkusen
+#EXTINF:-1 tvg-logo="Logo non disponibile", Empoli
 VS
-Torino
-https://calcio.monster/live/lazio-vs-torino
-#EXTINF:-1 tvg-logo="Logo non disponibile", Celta Vigo
+Bologna
+https://calcio.monster/live/empoli-vs-bologna
+#EXTINF:-1 tvg-logo="Logo non disponibile", Nottingham
 VS
-Las Palmas
-https://calcio.monster/live/celta-vigo-vs-las-palmas
+Manchester Utd
+https://calcio.monster/live/nottingham-vs-manchester-utd
+#EXTINF:-1 tvg-logo="Logo non disponibile", Dunkerque
+VS
+PSG
+https://calcio.monster/live/dunkerque-vs-psg
+#EXTINF:-1 tvg-logo="Logo non disponibile", Boavista
+VS
+Gil Vicente
+https://calcio.monster/live/boavista-vs-gil-vicente
+#EXTINF:-1 tvg-logo="Logo non disponibile", Real Madrid
+VS
+Real Sociedad
+https://calcio.monster/live/real-madrid-vs-real-sociedad
 #EXTINF:-1 tvg-logo="Logo non disponibile", Sky Sport
 VS
 NBA
