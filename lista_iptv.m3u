@@ -5,11 +5,11 @@
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220220/original/pngtree-television-logo-with-antena-png-image_7271918.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fe/8c/dc/fe8cdc1132013ab8afdfe7937176527d.jpg", Diretta Goal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Pescara - Arezzo
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fe/8c/dc/fe8cdc1132013ab8afdfe7937176527d.jpg", Bayern Monaco - Inter
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fe/8c/dc/fe8cdc1132013ab8afdfe7937176527d.jpg", PSG - Aston Villa
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fe/8c/dc/fe8cdc1132013ab8afdfe7937176527d.jpg", Arsenal - Real Madrid
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fe/8c/dc/fe8cdc1132013ab8afdfe7937176527d.jpg", Barcellona - Borussia Dortmund
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -33,26 +33,22 @@ https://www.guardaserie01.bio/
 https://calcio.codes/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.codes/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", Rimini
+#EXTINF:-1 tvg-logo="Logo non disponibile", Pescara
 VS
-Giana Erminio
-https://calcio.codes/live/rimini-vs-giana-erminio
-#EXTINF:-1 tvg-logo="Logo non disponibile", Diretta Gol
+Arezzo
+https://calcio.codes/live/pescara-vs-arezzo
+#EXTINF:-1 tvg-logo="Logo non disponibile", Barcellona
 VS
-Champions League
-https://calcio.codes/live/diretta-gol-vs-champions-league
-#EXTINF:-1 tvg-logo="Logo non disponibile", Bayern
+Dortmund
+https://calcio.codes/live/barcellona-vs-dortmund
+#EXTINF:-1 tvg-logo="Logo non disponibile", PSG
 VS
-Inter
-https://calcio.codes/live/bayern-vs-inter
-#EXTINF:-1 tvg-logo="Logo non disponibile", Arsenal
+Aston Villa
+https://calcio.codes/live/psg-vs-aston-villa
+#EXTINF:-1 tvg-logo="Logo non disponibile", Tirsense
 VS
-Real Madrid
-https://calcio.codes/live/arsenal-vs-real-madrid
-#EXTINF:-1 tvg-logo="Logo non disponibile", Leicester
-VS
-Newcastle
-https://calcio.codes/live/leicester-vs-newcastle
+Benfica
+https://calcio.codes/live/tirsense-vs-benfica
 #EXTINF:-1 tvg-logo="Logo non disponibile", Sky Sport
 VS
 NBA
