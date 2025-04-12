@@ -5,21 +5,17 @@
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220220/original/pngtree-television-logo-with-antena-png-image_7271918.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://sky-programmi.kleecks-cdn.com/images/cc/upload/f_webp/v1/sport/competition-logo-3r6mafcs65", Diretta Goal
+#EXTINF:-1 tvg-logo="https://www.modaemotorimagazine.com/wp-content/uploads/2024/11/il-nuovo-logo-motogp-nuova-stagione-del-motociclismo-467518278_981455960682256_4650896594190468016_n.jpg", GP Qatar (libere)
 
-#EXTINF:-1 tvg-logo="https://sky-programmi.kleecks-cdn.com/images/cc/upload/f_webp/v1/sport/competition-logo-3r6mafcs65", Bodo/Glimt - Lazio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOr-6Y9b1vb_B-STf6o_8Yj30msV46CXR4w&s", GP Bahrain (libere 1)
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nWrxbKkGog67rL2MBswBdFUdZXYjjsA2y_eZFkD0wufs7_ImP-564xgJudsTffgiH-Lt", Legia Varsavia - Chelsea
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOr-6Y9b1vb_B-STf6o_8Yj30msV46CXR4w&s", GP Bahrain (libere 2)
 
-#EXTINF:-1 tvg-logo="https://sky-programmi.kleecks-cdn.com/images/cc/upload/f_webp/v1/sport/competition-logo-3r6mafcs65", Diretta Goal
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBmxv5RBBxUMlAyPZmoUCc1JiLUDokExR-1g&s", Bari - Palermo
 
-#EXTINF:-1 tvg-logo="https://sky-programmi.kleecks-cdn.com/images/cc/upload/f_webp/v1/sport/competition-logo-3r6mafcs65", Lione - Man Utd
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/red-square-shape-on-white-600nw-2174668771.jpg", Wolfsburg - Lipsia
 
-#EXTINF:-1 tvg-logo="https://sky-programmi.kleecks-cdn.com/images/cc/upload/f_webp/v1/sport/competition-logo-3r6mafcs65", Tottenham - Eintracht Fr.
-
-#EXTINF:-1 tvg-logo="https://sky-programmi.kleecks-cdn.com/images/cc/upload/f_webp/v1/sport/competition-logo-3r6mafcs65", Rangers - Athletic B.
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nWrxbKkGog67rL2MBswBdFUdZXYjjsA2y_eZFkD0wufs7_ImP-564xgJudsTffgiH-Lt", Celje - Fiorentina
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Udinese - Milan
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -43,46 +39,54 @@ https://www.guardaserie01.bio/
 https://calcio.codes/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.codes/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", Diretta Gol
+#EXTINF:-1 tvg-logo="Logo non disponibile", FORMULA 1
 VS
-Europa
-https://calcio.codes/live/diretta-gol-vs-europa
-#EXTINF:-1 tvg-logo="Logo non disponibile", Bodo/Glimt
+GP Bahrain
+https://calcio.codes/live/formula-1-vs-gp-bahrain
+#EXTINF:-1 tvg-logo="Logo non disponibile", MOTOGP
 VS
-Lazio
-https://calcio.codes/live/bodo-glimt-vs-lazio
-#EXTINF:-1 tvg-logo="Logo non disponibile", Legia
+Losail (Qatar)
+https://calcio.codes/live/motogp-vs-losail-qatar-
+#EXTINF:-1 tvg-logo="Logo non disponibile", Al-Ettifaq
 VS
-Chelsea
-https://calcio.codes/live/legia-vs-chelsea
-#EXTINF:-1 tvg-logo="Logo non disponibile", Al-Ittihad FC
+Al-Hilal
+https://calcio.codes/live/al-ettifaq-vs-al-hilal-al-hilal
+#EXTINF:-1 tvg-logo="Logo non disponibile", Bari
 VS
-Al Orubah
-https://calcio.codes/live/al-ittihad-fc-vs-al-orubah
-#EXTINF:-1 tvg-logo="Logo non disponibile", Celje
+Palermo
+https://calcio.codes/live/bari-vs-palermo
+#EXTINF:-1 tvg-logo="Logo non disponibile", Wolfsburg
 VS
-Fiorentina
-https://calcio.codes/live/celje-vs-fiorentina
-#EXTINF:-1 tvg-logo="Logo non disponibile", Lione
+RB Lipsia
+https://calcio.codes/live/wolfsburg-vs-rb-lipsia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Alcione Milano
 VS
-Manchester Utd
-https://calcio.codes/live/lione-vs-manchester-utd
-#EXTINF:-1 tvg-logo="Logo non disponibile", Tottenham
+FeralpiSalò
+https://calcio.codes/live/alcione-milano-vs-feralpisal-
+#EXTINF:-1 tvg-logo="Logo non disponibile", Arzignano
 VS
-Francoforte
-https://calcio.codes/live/tottenham-vs-francoforte
-#EXTINF:-1 tvg-logo="Logo non disponibile", Rangers
+Caldiero Terme
+https://calcio.codes/live/arzignano-vs-caldiero-terme
+#EXTINF:-1 tvg-logo="Logo non disponibile", Lumezzane
 VS
-Ath. Bilbao
-https://calcio.codes/live/rangers-vs-ath-bilbao
-#EXTINF:-1 tvg-logo="Logo non disponibile", Betis
+Novara
+https://calcio.codes/live/lumezzane-vs-novara
+#EXTINF:-1 tvg-logo="Logo non disponibile", Udinese
 VS
-Jagiellonia
-https://calcio.codes/live/betis-vs-jagiellonia
-#EXTINF:-1 tvg-logo="Logo non disponibile", Djurgarden
+Milan
+https://calcio.codes/live/udinese-vs-milan
+#EXTINF:-1 tvg-logo="Logo non disponibile", Lens
 VS
-SK Rapid
-https://calcio.codes/live/djurgarden-vs-sk-rapid
+Reims
+https://calcio.codes/live/lens-vs-reims
+#EXTINF:-1 tvg-logo="Logo non disponibile", Valencia
+VS
+Siviglia
+https://calcio.codes/live/valencia-vs-siviglia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Gil Vicente
+VS
+Guimaraes
+https://calcio.codes/live/gil-vicente-vs-guimaraes
 #EXTINF:-1 tvg-logo="Logo non disponibile", Sky Sport
 VS
 NBA
