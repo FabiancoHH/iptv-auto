@@ -5,17 +5,75 @@
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220220/original/pngtree-television-logo-with-antena-png-image_7271918.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://www.modaemotorimagazine.com/wp-content/uploads/2024/11/il-nuovo-logo-motogp-nuova-stagione-del-motociclismo-467518278_981455960682256_4650896594190468016_n.jpg", GP Qatar (libere)
+#EXTINF:-1 tvg-logo="https://www.modaemotorimagazine.com/wp-content/uploads/2024/11/il-nuovo-logo-motogp-nuova-stagione-del-motociclismo-467518278_981455960682256_4650896594190468016_n.jpg", GP Qatar (libere e qualifiche)
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOr-6Y9b1vb_B-STf6o_8Yj30msV46CXR4w&s", GP Bahrain (libere 1)
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/2/premier-league-new-logo-png_seeklogo-286461.png", Manchester City - Crystal Palace
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOr-6Y9b1vb_B-STf6o_8Yj30msV46CXR4w&s", GP Bahrain (libere 2)
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Real Sociedad - Maiorca
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBmxv5RBBxUMlAyPZmoUCc1JiLUDokExR-1g&s", Bari - Palermo
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOr-6Y9b1vb_B-STf6o_8Yj30msV46CXR4w&s", GP Bahrain (libere 3)
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/red-square-shape-on-white-600nw-2174668771.jpg", Wolfsburg - Lipsia
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Venezia - Monza
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Udinese - Milan
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBmxv5RBBxUMlAyPZmoUCc1JiLUDokExR-1g&s", Diretta Goal
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBmxv5RBBxUMlAyPZmoUCc1JiLUDokExR-1g&s", Carrarese - Catanzaro
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBmxv5RBBxUMlAyPZmoUCc1JiLUDokExR-1g&s", Cosenza - Brescia
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBmxv5RBBxUMlAyPZmoUCc1JiLUDokExR-1g&s", Reggiana - Pisa
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBmxv5RBBxUMlAyPZmoUCc1JiLUDokExR-1g&s", Salernitana - Sud Tirol
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Cavese - Catania
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Clodiense - Atalanta U23
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Trento - Renate
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Pianese - Pineto
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Picerno - Latina
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/800px-Bundesliga_logo_%282017%29.svg.png", Bayer Leverkusen - Union Berlino
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/2/premier-league-new-logo-png_seeklogo-286461.png", Nottingham Forest - Everton
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/2/premier-league-new-logo-png_seeklogo-286461.png", Brighton - Leicester
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/2/premier-league-new-logo-png_seeklogo-286461.png", Southampton - Aston Villa
+
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Getafe - Las Palmas
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_Ligue_1_2024.jpg/1200px-Logo_Ligue_1_2024.jpg", Monaco - Marsiglia
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBmxv5RBBxUMlAyPZmoUCc1JiLUDokExR-1g&s", Sampdoria - Cittadella
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Lecco - Albinoleffe
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Perugia - Sestri L.
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Spal - Pontedera
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Pro Vercelli - Propatria
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Sorrento - Giugliano
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOr-6Y9b1vb_B-STf6o_8Yj30msV46CXR4w&s", GP Bahrain (qualifiche)
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Inter - Cagliari
+
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Celta - Espaynol
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/2/premier-league-new-logo-png_seeklogo-286461.png", Arsenal - Brentford
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/800px-Bundesliga_logo_%282017%29.svg.png", Bayern Monaco - Borussia Dt
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBmxv5RBBxUMlAyPZmoUCc1JiLUDokExR-1g&s", Modena - Sassuolo
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Juventus - Lecce
+
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Leganes - Barcellona
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -47,46 +105,162 @@ https://calcio.codes/live/formula-1-vs-gp-bahrain
 VS
 Losail (Qatar)
 https://calcio.codes/live/motogp-vs-losail-qatar-
-#EXTINF:-1 tvg-logo="Logo non disponibile", Al-Ettifaq
+#EXTINF:-1 tvg-logo="Logo non disponibile", Manchester City
 VS
-Al-Hilal
-https://calcio.codes/live/al-ettifaq-vs-al-hilal-al-hilal
-#EXTINF:-1 tvg-logo="Logo non disponibile", Bari
+Crystal Palace
+https://calcio.codes/live/manchester-city-vs-crystal-palace
+#EXTINF:-1 tvg-logo="Logo non disponibile", Real Sociedad
 VS
-Palermo
-https://calcio.codes/live/bari-vs-palermo
-#EXTINF:-1 tvg-logo="Logo non disponibile", Wolfsburg
+Maiorca
+https://calcio.codes/live/real-sociedad-vs-maiorca
+#EXTINF:-1 tvg-logo="Logo non disponibile", Venezia
 VS
-RB Lipsia
-https://calcio.codes/live/wolfsburg-vs-rb-lipsia
-#EXTINF:-1 tvg-logo="Logo non disponibile", Alcione Milano
+Monza
+https://calcio.codes/live/venezia-vs-monza
+#EXTINF:-1 tvg-logo="Logo non disponibile", Zona
 VS
-FeralpiSalò
-https://calcio.codes/live/alcione-milano-vs-feralpisal-
-#EXTINF:-1 tvg-logo="Logo non disponibile", Arzignano
+Serie B
+https://calcio.codes/live/zona-vs-serie-b
+#EXTINF:-1 tvg-logo="Logo non disponibile", Carrarese
 VS
-Caldiero Terme
-https://calcio.codes/live/arzignano-vs-caldiero-terme
-#EXTINF:-1 tvg-logo="Logo non disponibile", Lumezzane
+Catanzaro
+https://calcio.codes/live/carrarese-vs-catanzaro
+#EXTINF:-1 tvg-logo="Logo non disponibile", Cosenza
 VS
-Novara
-https://calcio.codes/live/lumezzane-vs-novara
-#EXTINF:-1 tvg-logo="Logo non disponibile", Udinese
+Brescia
+https://calcio.codes/live/cosenza-vs-brescia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Reggiana
 VS
-Milan
-https://calcio.codes/live/udinese-vs-milan
-#EXTINF:-1 tvg-logo="Logo non disponibile", Lens
+Pisa
+https://calcio.codes/live/reggiana-vs-pisa
+#EXTINF:-1 tvg-logo="Logo non disponibile", Salernitana
 VS
-Reims
-https://calcio.codes/live/lens-vs-reims
-#EXTINF:-1 tvg-logo="Logo non disponibile", Valencia
+Südtirol
+https://calcio.codes/live/salernitana-vs-s-dtirol
+#EXTINF:-1 tvg-logo="Logo non disponibile", Cavese
 VS
-Siviglia
-https://calcio.codes/live/valencia-vs-siviglia
-#EXTINF:-1 tvg-logo="Logo non disponibile", Gil Vicente
+Catania
+https://calcio.codes/live/cavese-vs-catania
+#EXTINF:-1 tvg-logo="Logo non disponibile", Union Clodiense
 VS
-Guimaraes
-https://calcio.codes/live/gil-vicente-vs-guimaraes
+Atalanta U23
+https://calcio.codes/live/union-clodiense-vs-atalanta-u23
+#EXTINF:-1 tvg-logo="Logo non disponibile", Trento
+VS
+Renate
+https://calcio.codes/live/trento-vs-renate
+#EXTINF:-1 tvg-logo="Logo non disponibile", Pianese
+VS
+Pineto
+https://calcio.codes/live/pianese-vs-pineto
+#EXTINF:-1 tvg-logo="Logo non disponibile", Picerno
+VS
+Latina
+https://calcio.codes/live/picerno-vs-latina
+#EXTINF:-1 tvg-logo="Logo non disponibile", Leverkusen
+VS
+Union Berlino
+https://calcio.codes/live/leverkusen-vs-union-berlino
+#EXTINF:-1 tvg-logo="Logo non disponibile", Nottingham
+VS
+Everton
+https://calcio.codes/live/nottingham-vs-everton
+#EXTINF:-1 tvg-logo="Logo non disponibile", Brighton
+VS
+Leicester
+https://calcio.codes/live/brighton-vs-leicester
+#EXTINF:-1 tvg-logo="Logo non disponibile", Southampton
+VS
+Aston Villa
+https://calcio.codes/live/southampton-vs-aston-villa
+#EXTINF:-1 tvg-logo="Logo non disponibile", Getafe
+VS
+Las Palmas
+https://calcio.codes/live/getafe-vs-las-palmas
+#EXTINF:-1 tvg-logo="Logo non disponibile", Famalicao
+VS
+Estoril
+https://calcio.codes/live/famalicao-vs-estoril
+#EXTINF:-1 tvg-logo="Logo non disponibile", Monaco
+VS
+Marsiglia
+https://calcio.codes/live/monaco-vs-marsiglia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Sampdoria
+VS
+Cittadella
+https://calcio.codes/live/sampdoria-vs-cittadella
+#EXTINF:-1 tvg-logo="Logo non disponibile", Lecco
+VS
+AlbinoLeffe
+https://calcio.codes/live/lecco-vs-albinoleffe
+#EXTINF:-1 tvg-logo="Logo non disponibile", Perugia
+VS
+Sestri Levante
+https://calcio.codes/live/perugia-vs-sestri-levante
+#EXTINF:-1 tvg-logo="Logo non disponibile", Spal
+VS
+Pontedera
+https://calcio.codes/live/spal-vs-pontedera
+#EXTINF:-1 tvg-logo="Logo non disponibile", Pro Vercelli
+VS
+Pro Patria
+https://calcio.codes/live/pro-vercelli-vs-pro-patria
+#EXTINF:-1 tvg-logo="Logo non disponibile", Giugliano
+VS
+Sorrento
+https://calcio.codes/live/giugliano-vs-sorrento
+#EXTINF:-1 tvg-logo="Logo non disponibile", Inter
+VS
+Cagliari
+https://calcio.codes/live/inter-vs-cagliari
+#EXTINF:-1 tvg-logo="Logo non disponibile", Arsenal
+VS
+Brentford
+https://calcio.codes/live/arsenal-vs-brentford
+#EXTINF:-1 tvg-logo="Logo non disponibile", Bayern
+VS
+Dortmund
+https://calcio.codes/live/bayern-vs-dortmund
+#EXTINF:-1 tvg-logo="Logo non disponibile", Celta Vigo
+VS
+Espanyol
+https://calcio.codes/live/celta-vigo-vs-espanyol
+#EXTINF:-1 tvg-logo="Logo non disponibile", Tolosa
+VS
+Lilla
+https://calcio.codes/live/tolosa-vs-lilla
+#EXTINF:-1 tvg-logo="Logo non disponibile", Santa Clara
+VS
+Sporting
+https://calcio.codes/live/santa-clara-vs-sporting
+#EXTINF:-1 tvg-logo="Logo non disponibile", Modena
+VS
+Sassuolo
+https://calcio.codes/live/modena-vs-sassuolo
+#EXTINF:-1 tvg-logo="Logo non disponibile", Al Nassr FC
+VS
+Al Riyadh
+https://calcio.codes/live/al-nassr-fc-vs-al-riyadh
+#EXTINF:-1 tvg-logo="Logo non disponibile", Juventus
+VS
+Lecce
+https://calcio.codes/live/juventus-vs-lecce
+#EXTINF:-1 tvg-logo="Logo non disponibile", Leganes
+VS
+Barcellona
+https://calcio.codes/live/leganes-vs-barcellona
+#EXTINF:-1 tvg-logo="Logo non disponibile", Strasburgo
+VS
+Nizza
+https://calcio.codes/live/strasburgo-vs-nizza
+#EXTINF:-1 tvg-logo="Logo non disponibile", Casa Pia
+VS
+FC Porto
+https://calcio.codes/live/casa-pia-vs-fc-porto
+#EXTINF:-1 tvg-logo="Logo non disponibile", Belgrano
+VS
+Boca Juniors
+https://calcio.codes/live/belgrano-vs-boca-juniors
 #EXTINF:-1 tvg-logo="Logo non disponibile", Sky Sport
 VS
 NBA
