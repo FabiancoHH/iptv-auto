@@ -5,15 +5,11 @@
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220220/original/pngtree-television-logo-with-antena-png-image_7271918.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Crotone - Foggia
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Diretta Goal
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Carpi - Legnano
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Borussia Dortmund - Barcellona
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Napoli - Empoli
-
-#EXTINF:-1 tvg-logo="https://gianlucadimarzio.com/wp-content/uploads/2024/12/laliga_logo_2023.svg_.png", Atletico Madrid - Valladolid
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/premier-league-new-logo-png_seeklogo-286461.png", Bournemouth - Fulham
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Aston Villa - PSG
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -37,30 +33,18 @@ https://www.guardaserie01.bio/
 https://calcio.codes/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.codes/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", Crotone
+#EXTINF:-1 tvg-logo="Logo non disponibile", Diretta Gol
 VS
-Foggia
-https://calcio.codes/live/crotone-vs-foggia
-#EXTINF:-1 tvg-logo="Logo non disponibile", Carpi
+Champions League
+https://calcio.codes/live/diretta-gol-vs-champions-league-1
+#EXTINF:-1 tvg-logo="Logo non disponibile", Dortmund
 VS
-Legnago Salus
-https://calcio.codes/live/carpi-vs-legnago-salus
-#EXTINF:-1 tvg-logo="Logo non disponibile", Aldosivi
+Barcellona
+https://calcio.codes/live/dortmund-vs-barcellona
+#EXTINF:-1 tvg-logo="Logo non disponibile", Aston Villa
 VS
-Racing Club
-https://calcio.codes/live/aldosivi-vs-racing-club
-#EXTINF:-1 tvg-logo="Logo non disponibile", Napoli
-VS
-Empoli
-https://calcio.codes/live/napoli-vs-empoli
-#EXTINF:-1 tvg-logo="Logo non disponibile", Bournemouth
-VS
-Fulham
-https://calcio.codes/live/bournemouth-vs-fulham
-#EXTINF:-1 tvg-logo="Logo non disponibile", Atl. Madrid
-VS
-Valladolid
-https://calcio.codes/live/atl-madrid-vs-valladolid
+PSG
+https://calcio.codes/live/aston-villa-vs-psg
 #EXTINF:-1 tvg-logo="Logo non disponibile", Sky Sport
 VS
 NBA
