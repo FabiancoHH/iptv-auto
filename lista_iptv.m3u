@@ -5,35 +5,9 @@
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220220/original/pngtree-television-logo-with-antena-png-image_7271918.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Valladolid - Osasuna
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Torino - Udinese
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Empoli - Venezia
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/premier-league-new-logo-png_seeklogo-286461.png", Ipswich - Arsenal
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/premier-league-new-logo-png_seeklogo-286461.png", Fulham - Chelsea
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/premier-league-new-logo-png_seeklogo-286461.png", Manchester United - Wolverhampton
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/1200px-Bundesliga_-_Logo_2017.svg.png", Augsburg - Eintracht Francoforte
-
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Villarreal - Real Sociedad
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/premier-league-new-logo-png_seeklogo-286461.png", Leicester - Liverpool
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/1200px-Bundesliga_-_Logo_2017.svg.png", Borussia D. - Borussia M.
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Bologna - Inter
-
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Siviglia - Leganes
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/1200px-Bundesliga_-_Logo_2017.svg.png", St. Pauli - Bayer Leverkuesen
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1280px-F1.svg.png", GP Arabia Saudita
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Milan - Atalanta
-
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Real Madrid - Athletic Bilbao
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Cagliari - Fiorentina
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -57,50 +31,26 @@ https://www.guardaserie01.bio/
 https://calcio.codes/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.codes/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", FORMULA 1
+#EXTINF:-1 tvg-logo="Logo non disponibile", Snooker
 VS
-GP Arabia Saudita
-https://calcio.codes/live/formula-1-vs-gp-arabia-saudita
-#EXTINF:-1 tvg-logo="Logo non disponibile", Leicester
+Campionato del Mondo
+https://calcio.codes/live/snooker-vs-campionato-del-mondo
+#EXTINF:-1 tvg-logo="Logo non disponibile", Al-Hilal
 VS
-Liverpool
-https://calcio.codes/live/leicester-vs-liverpool
-#EXTINF:-1 tvg-logo="Logo non disponibile", Dortmund
+Al Shabab
+https://calcio.codes/live/al-hilal-vs-al-shabab
+#EXTINF:-1 tvg-logo="Logo non disponibile", Al-Ittihad FC
 VS
-Monchengladbach
-https://calcio.codes/live/dortmund-vs-monchengladbach
-#EXTINF:-1 tvg-logo="Logo non disponibile", Bologna
+Al-Ettifaq
+https://calcio.codes/live/al-ittihad-fc-vs-al-ettifaq
+#EXTINF:-1 tvg-logo="Logo non disponibile", Tottenham
 VS
-Inter
-https://calcio.codes/live/bologna-vs-inter
-#EXTINF:-1 tvg-logo="Logo non disponibile", Barcellona D
+Nottingham
+https://calcio.codes/live/tottenham-vs-nottingham
+#EXTINF:-1 tvg-logo="Logo non disponibile", Girona
 VS
-Chelsea D
-https://calcio.codes/live/barcellona-d-vs-chelsea-d
-#EXTINF:-1 tvg-logo="Logo non disponibile", Siviglia
-VS
-Alaves
-https://calcio.codes/live/siviglia-vs-alaves
-#EXTINF:-1 tvg-logo="Logo non disponibile", St. Pauli
-VS
-Leverkusen
-https://calcio.codes/live/st-pauli-vs-leverkusen
-#EXTINF:-1 tvg-logo="Logo non disponibile", Dep. Riestra
-VS
-San Lorenzo
-https://calcio.codes/live/dep-riestra-vs-san-lorenzo
-#EXTINF:-1 tvg-logo="Logo non disponibile", Milan
-VS
-Atalanta
-https://calcio.codes/live/milan-vs-atalanta
-#EXTINF:-1 tvg-logo="Logo non disponibile", St. Etienne
-VS
-Lione
-https://calcio.codes/live/st-etienne-vs-lione
-#EXTINF:-1 tvg-logo="Logo non disponibile", Real Madrid
-VS
-Ath. Bilbao
-https://calcio.codes/live/real-madrid-vs-ath-bilbao
+Betis
+https://calcio.codes/live/girona-vs-betis
 #EXTINF:-1 tvg-logo="Logo non disponibile", Sky Sport
 VS
 NBA
