@@ -5,9 +5,9 @@
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220220/original/pngtree-television-logo-with-antena-png-image_7271918.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Torino - Udinese
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Valencia - Espanyol
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Cagliari - Fiorentina
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/10/premier-league-logo-300x300.png", Manchester City - Aston Villa
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -35,22 +35,30 @@ https://calcio.codes/page/contact
 VS
 Campionato del Mondo
 https://calcio.codes/live/snooker-vs-campionato-del-mondo
-#EXTINF:-1 tvg-logo="Logo non disponibile", Al-Hilal
+#EXTINF:-1 tvg-logo="Logo non disponibile", Damac
 VS
-Al Shabab
-https://calcio.codes/live/al-hilal-vs-al-shabab
-#EXTINF:-1 tvg-logo="Logo non disponibile", Al-Ittihad FC
+Al Nassr FC
+https://calcio.codes/live/damac-vs-al-nassr-fc
+#EXTINF:-1 tvg-logo="Logo non disponibile", Valencia
 VS
-Al-Ettifaq
-https://calcio.codes/live/al-ittihad-fc-vs-al-ettifaq
-#EXTINF:-1 tvg-logo="Logo non disponibile", Tottenham
+Espanyol
+https://calcio.codes/live/valencia-vs-espanyol
+#EXTINF:-1 tvg-logo="Logo non disponibile", Nantes
 VS
-Nottingham
-https://calcio.codes/live/tottenham-vs-nottingham
-#EXTINF:-1 tvg-logo="Logo non disponibile", Girona
+PSG
+https://calcio.codes/live/nantes-vs-psg
+#EXTINF:-1 tvg-logo="Logo non disponibile", Manchester City
 VS
-Betis
-https://calcio.codes/live/girona-vs-betis
+Aston Villa
+https://calcio.codes/live/manchester-city-vs-aston-villa
+#EXTINF:-1 tvg-logo="Logo non disponibile", Barcellona
+VS
+Maiorca
+https://calcio.codes/live/barcellona-vs-maiorca
+#EXTINF:-1 tvg-logo="Logo non disponibile", Rio Ave
+VS
+Sporting
+https://calcio.codes/live/rio-ave-vs-sporting
 #EXTINF:-1 tvg-logo="Logo non disponibile", Sky Sport
 VS
 NBA
