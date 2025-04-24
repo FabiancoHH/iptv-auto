@@ -5,9 +5,35 @@
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220220/original/pngtree-television-logo-with-antena-png-image_7271918.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Valencia - Espanyol
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Milan Futuro - Gubbio
 
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/10/premier-league-logo-300x300.png", Manchester City - Aston Villa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Ternana - Pianese
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Torres - Carpi
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Legnano - Pescara
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Campobasso - Perugia
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Sestri Levante - Ascoli
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Vis Pesaro - Spal
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Pontedera - Rimini
+
+#EXTINF:-1 tvg-logo="https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png", Diretta Goal
+
+#EXTINF:-1 tvg-logo="https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png", Parma - Juventus
+
+#EXTINF:-1 tvg-logo="https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png", Torino - Udinese
+
+#EXTINF:-1 tvg-logo="https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png", Genoa - Lazio
+
+#EXTINF:-1 tvg-logo="https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png", Cagliari - Fiorentina
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Coccarda_Coppa_Italia.svg/1200px-Coccarda_Coppa_Italia.svg.png", Inter - Milan
+
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/10/premier-league-logo-300x300.png", Arsenal - Crystal Palace
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -35,30 +61,34 @@ https://calcio.codes/page/contact
 VS
 Campionato del Mondo
 https://calcio.codes/live/snooker-vs-campionato-del-mondo
-#EXTINF:-1 tvg-logo="Logo non disponibile", Damac
+#EXTINF:-1 tvg-logo="Logo non disponibile", Ath. Bilbao
 VS
-Al Nassr FC
-https://calcio.codes/live/damac-vs-al-nassr-fc
-#EXTINF:-1 tvg-logo="Logo non disponibile", Valencia
+Las Palmas
+https://calcio.codes/live/ath-bilbao-vs-las-palmas
+#EXTINF:-1 tvg-logo="Logo non disponibile", Celta Vigo
 VS
-Espanyol
-https://calcio.codes/live/valencia-vs-espanyol
-#EXTINF:-1 tvg-logo="Logo non disponibile", Nantes
+Villarreal
+https://calcio.codes/live/celta-vigo-vs-villarreal
+#EXTINF:-1 tvg-logo="Logo non disponibile", Inter
 VS
-PSG
-https://calcio.codes/live/nantes-vs-psg
-#EXTINF:-1 tvg-logo="Logo non disponibile", Manchester City
+Milan
+https://calcio.codes/live/inter-vs-milan
+#EXTINF:-1 tvg-logo="Logo non disponibile", Arsenal
 VS
-Aston Villa
-https://calcio.codes/live/manchester-city-vs-aston-villa
-#EXTINF:-1 tvg-logo="Logo non disponibile", Barcellona
+Crystal Palace
+https://calcio.codes/live/arsenal-vs-crystal-palace
+#EXTINF:-1 tvg-logo="Logo non disponibile", Benfica
 VS
-Maiorca
-https://calcio.codes/live/barcellona-vs-maiorca
-#EXTINF:-1 tvg-logo="Logo non disponibile", Rio Ave
+Tirsense
+https://calcio.codes/live/benfica-vs-tirsense
+#EXTINF:-1 tvg-logo="Logo non disponibile", Getafe
 VS
-Sporting
-https://calcio.codes/live/rio-ave-vs-sporting
+Real Madrid
+https://calcio.codes/live/getafe-vs-real-madrid
+#EXTINF:-1 tvg-logo="Logo non disponibile", Alaves
+VS
+Real Sociedad
+https://calcio.codes/live/alaves-vs-real-sociedad
 #EXTINF:-1 tvg-logo="Logo non disponibile", Sky Sport
 VS
 NBA
