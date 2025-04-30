@@ -5,13 +5,7 @@
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220220/original/pngtree-television-logo-with-antena-png-image_7271918.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Udinese - Bologna
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Diretta Goal
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Lazio - Parma
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Verona - Cagliari
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994476-campioni-lega-logo-simbolo-bianca-design-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-nero-sfondo-gratuito-vettoriale.jpg", Arsenal - PSG
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -35,30 +29,14 @@ https://www.guardaserie01.bio/
 https://calcio.codes/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.codes/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", Defensa y Justicia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Arsenal
 VS
-Racing Club
-https://calcio.codes/live/defensa-y-justicia-vs-racing-club
-#EXTINF:-1 tvg-logo="Logo non disponibile", Udinese
+PSG
+https://calcio.codes/live/arsenal-vs-psg
+#EXTINF:-1 tvg-logo="Logo non disponibile", Newells Old Boys
 VS
-Bologna
-https://calcio.codes/live/udinese-vs-bologna
-#EXTINF:-1 tvg-logo="Logo non disponibile", Zona
-VS
-Serie A
-https://calcio.codes/live/zona-vs-serie-a
-#EXTINF:-1 tvg-logo="Logo non disponibile", Lazio
-VS
-Parma
-https://calcio.codes/live/lazio-vs-parma
-#EXTINF:-1 tvg-logo="Logo non disponibile", Verona
-VS
-Cagliari
-https://calcio.codes/live/verona-vs-cagliari
-#EXTINF:-1 tvg-logo="Logo non disponibile", Casa Pia
-VS
-Estoril
-https://calcio.codes/live/casa-pia-vs-estoril
+Huracan
+https://calcio.codes/live/newells-old-boys-vs-huracan
 #EXTINF:-1 tvg-logo="Logo non disponibile", Snooker
 VS
 Campionato del Mondo
