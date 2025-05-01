@@ -5,7 +5,7 @@
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220220/original/pngtree-television-logo-with-antena-png-image_7271918.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994476-campioni-lega-logo-simbolo-bianca-design-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-nero-sfondo-gratuito-vettoriale.jpg", Arsenal - PSG
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994476-campioni-lega-logo-simbolo-bianca-design-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-nero-sfondo-gratuito-vettoriale.jpg", Barcellona - Inter
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -29,14 +29,10 @@ https://www.guardaserie01.bio/
 https://calcio.codes/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.codes/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", Arsenal
+#EXTINF:-1 tvg-logo="Logo non disponibile", Barcellona
 VS
-PSG
-https://calcio.codes/live/arsenal-vs-psg
-#EXTINF:-1 tvg-logo="Logo non disponibile", Newells Old Boys
-VS
-Huracan
-https://calcio.codes/live/newells-old-boys-vs-huracan
+Inter
+https://calcio.codes/live/barcellona-vs-inter
 #EXTINF:-1 tvg-logo="Logo non disponibile", Snooker
 VS
 Campionato del Mondo
