@@ -5,7 +5,15 @@
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220220/original/pngtree-television-logo-with-antena-png-image_7271918.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994476-campioni-lega-logo-simbolo-bianca-design-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-nero-sfondo-gratuito-vettoriale.jpg", Barcellona - Inter
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBmxv5RBBxUMlAyPZmoUCc1JiLUDokExR-1g&s", Cittadella - Brescia
+
+#EXTINF:-1 tvg-logo="https://www.zerozero.pt/img/logos/competicoes/28_imgbank_el_20240625151457.png", Diretta Goal
+
+#EXTINF:-1 tvg-logo="https://www.zerozero.pt/img/logos/competicoes/28_imgbank_el_20240625151457.png", Athletic Bilbao - Manchester United
+
+#EXTINF:-1 tvg-logo="https://www.zerozero.pt/img/logos/competicoes/28_imgbank_el_20240625151457.png", Tottenham - Bodo/Glimt
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nWrxbKkGog67rL2MBswBdFUdZXYjjsA2y_eZFkD0wufs7_ImP-564xgJudsTffgiH-Lt", Betis - Fiorentina
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -29,10 +37,38 @@ https://www.guardaserie01.bio/
 https://calcio.codes/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.codes/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", Barcellona
+#EXTINF:-1 tvg-logo="Logo non disponibile", Cittadella
 VS
-Inter
-https://calcio.codes/live/barcellona-vs-inter
+Brescia
+https://calcio.codes/live/cittadella-vs-brescia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Sassuolo
+VS
+Carrarese
+https://calcio.codes/live/sassuolo-vs-carrarese
+#EXTINF:-1 tvg-logo="Logo non disponibile", Nottingham
+VS
+Brentford
+https://calcio.codes/live/nottingham-vs-brentford
+#EXTINF:-1 tvg-logo="Logo non disponibile", Diretta Gol
+VS
+Europa
+https://calcio.codes/live/diretta-gol-vs-europa
+#EXTINF:-1 tvg-logo="Logo non disponibile", Betis
+VS
+Fiorentina
+https://calcio.codes/live/betis-vs-fiorentina
+#EXTINF:-1 tvg-logo="Logo non disponibile", Ath. Bilbao
+VS
+Manchester Utd
+https://calcio.codes/live/ath-bilbao-vs-manchester-utd
+#EXTINF:-1 tvg-logo="Logo non disponibile", Tottenham
+VS
+Bodo/Glimt
+https://calcio.codes/live/tottenham-vs-bodo-glimt
+#EXTINF:-1 tvg-logo="Logo non disponibile", Djurgarden
+VS
+Chelsea
+https://calcio.codes/live/djurgarden-vs-chelsea
 #EXTINF:-1 tvg-logo="Logo non disponibile", Snooker
 VS
 Campionato del Mondo
