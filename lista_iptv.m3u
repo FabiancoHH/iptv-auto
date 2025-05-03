@@ -5,15 +5,17 @@
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220220/original/pngtree-television-logo-with-antena-png-image_7271918.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBmxv5RBBxUMlAyPZmoUCc1JiLUDokExR-1g&s", Cittadella - Brescia
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png", GP Miami (libere 1)
 
-#EXTINF:-1 tvg-logo="https://www.zerozero.pt/img/logos/competicoes/28_imgbank_el_20240625151457.png", Diretta Goal
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994305-bundesliga-logo-simbolo-bianca-design-germania-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-rosso-sfondo-gratuito-vettoriale.jpg", Heidenheim - Bochum
 
-#EXTINF:-1 tvg-logo="https://www.zerozero.pt/img/logos/competicoes/28_imgbank_el_20240625151457.png", Athletic Bilbao - Manchester United
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/serie_a-brandlogo.net_-512x512.png", Torino - Venezia
 
-#EXTINF:-1 tvg-logo="https://www.zerozero.pt/img/logos/competicoes/28_imgbank_el_20240625151457.png", Tottenham - Bodo/Glimt
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/2/premier-league-new-logo-png_seeklogo-286461.png", Manchester City - Wolverhampton
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nWrxbKkGog67rL2MBswBdFUdZXYjjsA2y_eZFkD0wufs7_ImP-564xgJudsTffgiH-Lt", Betis - Fiorentina
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Rayo Vallecano - Getafe
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png", GP Miami (Qualifiche Sprint Race)
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -37,38 +39,38 @@ https://www.guardaserie01.bio/
 https://calcio.codes/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.codes/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", Cittadella
+#EXTINF:-1 tvg-logo="Logo non disponibile", FORMULA 1
 VS
-Brescia
-https://calcio.codes/live/cittadella-vs-brescia
-#EXTINF:-1 tvg-logo="Logo non disponibile", Sassuolo
+GP Stati Uniti - Miami (USA)
+https://calcio.codes/live/formula-1-vs-gp-stati-uniti---miami-usa-
+#EXTINF:-1 tvg-logo="Logo non disponibile", Al Qadisiya
 VS
-Carrarese
-https://calcio.codes/live/sassuolo-vs-carrarese
-#EXTINF:-1 tvg-logo="Logo non disponibile", Nottingham
+Al Kholood
+https://calcio.codes/live/al-qadisiya-vs-al-kholood
+#EXTINF:-1 tvg-logo="Logo non disponibile", Heidenheim
 VS
-Brentford
-https://calcio.codes/live/nottingham-vs-brentford
-#EXTINF:-1 tvg-logo="Logo non disponibile", Diretta Gol
+Bochum
+https://calcio.codes/live/heidenheim-vs-bochum
+#EXTINF:-1 tvg-logo="Logo non disponibile", Torino
 VS
-Europa
-https://calcio.codes/live/diretta-gol-vs-europa
-#EXTINF:-1 tvg-logo="Logo non disponibile", Betis
+Venezia
+https://calcio.codes/live/torino-vs-venezia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Nizza
 VS
-Fiorentina
-https://calcio.codes/live/betis-vs-fiorentina
-#EXTINF:-1 tvg-logo="Logo non disponibile", Ath. Bilbao
+Reims
+https://calcio.codes/live/nizza-vs-reims
+#EXTINF:-1 tvg-logo="Logo non disponibile", Manchester City
 VS
-Manchester Utd
-https://calcio.codes/live/ath-bilbao-vs-manchester-utd
-#EXTINF:-1 tvg-logo="Logo non disponibile", Tottenham
+Wolves
+https://calcio.codes/live/manchester-city-vs-wolves
+#EXTINF:-1 tvg-logo="Logo non disponibile", Vallecano
 VS
-Bodo/Glimt
-https://calcio.codes/live/tottenham-vs-bodo-glimt
-#EXTINF:-1 tvg-logo="Logo non disponibile", Djurgarden
+Getafe
+https://calcio.codes/live/vallecano-vs-getafe
+#EXTINF:-1 tvg-logo="Logo non disponibile", FC Porto
 VS
-Chelsea
-https://calcio.codes/live/djurgarden-vs-chelsea
+Moreirense
+https://calcio.codes/live/fc-porto-vs-moreirense
 #EXTINF:-1 tvg-logo="Logo non disponibile", Snooker
 VS
 Campionato del Mondo
