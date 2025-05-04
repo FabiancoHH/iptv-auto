@@ -5,17 +5,35 @@
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220220/original/pngtree-television-logo-with-antena-png-image_7271918.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png", GP Miami (libere 1)
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/2/premier-league-new-logo-png_seeklogo-286461.png", Aston Villa - Fulham
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994305-bundesliga-logo-simbolo-bianca-design-germania-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-rosso-sfondo-gratuito-vettoriale.jpg", Heidenheim - Bochum
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Alaves - Atl Madrid
 
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/serie_a-brandlogo.net_-512x512.png", Torino - Venezia
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/serie_a-brandlogo.net_-512x512.png", Diretta Goal
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/2/premier-league-new-logo-png_seeklogo-286461.png", Manchester City - Wolverhampton
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/serie_a-brandlogo.net_-512x512.png", Cagliari - Udinese
 
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Rayo Vallecano - Getafe
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/serie_a-brandlogo.net_-512x512.png", Parma - Como
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png", GP Miami (Qualifiche Sprint Race)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994305-bundesliga-logo-simbolo-bianca-design-germania-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-rosso-sfondo-gratuito-vettoriale.jpg", Bundesliga Multicast
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994305-bundesliga-logo-simbolo-bianca-design-germania-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-rosso-sfondo-gratuito-vettoriale.jpg", Lipsia - Bayern Monaco
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994305-bundesliga-logo-simbolo-bianca-design-germania-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-rosso-sfondo-gratuito-vettoriale.jpg", B. Monchengladbach - Hoffenheim
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994305-bundesliga-logo-simbolo-bianca-design-germania-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-rosso-sfondo-gratuito-vettoriale.jpg", St. Pauli - Stuttgart
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994305-bundesliga-logo-simbolo-bianca-design-germania-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-rosso-sfondo-gratuito-vettoriale.jpg", Union Berlin - Werder BrÃªme
+
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Villarreal - Osasuna
+
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/serie_a-brandlogo.net_-512x512.png", Lecce - Napoli
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png", GP Miami (Sprint Race)
+
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/serie_a-brandlogo.net_-512x512.png", Inter - Verona
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png", GP Miami (qualifiche)
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -43,34 +61,90 @@ https://calcio.codes/page/contact
 VS
 GP Stati Uniti - Miami (USA)
 https://calcio.codes/live/formula-1-vs-gp-stati-uniti---miami-usa-
-#EXTINF:-1 tvg-logo="Logo non disponibile", Al Qadisiya
+#EXTINF:-1 tvg-logo="Logo non disponibile", Aston Villa
 VS
-Al Kholood
-https://calcio.codes/live/al-qadisiya-vs-al-kholood
-#EXTINF:-1 tvg-logo="Logo non disponibile", Heidenheim
+Fulham
+https://calcio.codes/live/aston-villa-vs-fulham
+#EXTINF:-1 tvg-logo="Logo non disponibile", Alaves
 VS
-Bochum
-https://calcio.codes/live/heidenheim-vs-bochum
-#EXTINF:-1 tvg-logo="Logo non disponibile", Torino
+Atl. Madrid
+https://calcio.codes/live/alaves-vs-atl-madrid
+#EXTINF:-1 tvg-logo="Logo non disponibile", Zona
 VS
-Venezia
-https://calcio.codes/live/torino-vs-venezia
-#EXTINF:-1 tvg-logo="Logo non disponibile", Nizza
+Serie A
+https://calcio.codes/live/zona-vs-serie-a
+#EXTINF:-1 tvg-logo="Logo non disponibile", Cagliari
 VS
-Reims
-https://calcio.codes/live/nizza-vs-reims
-#EXTINF:-1 tvg-logo="Logo non disponibile", Manchester City
+Udinese
+https://calcio.codes/live/cagliari-vs-udinese
+#EXTINF:-1 tvg-logo="Logo non disponibile", Parma
 VS
-Wolves
-https://calcio.codes/live/manchester-city-vs-wolves
-#EXTINF:-1 tvg-logo="Logo non disponibile", Vallecano
+Como
+https://calcio.codes/live/parma-vs-como
+#EXTINF:-1 tvg-logo="Logo non disponibile", RB Lipsia
 VS
-Getafe
-https://calcio.codes/live/vallecano-vs-getafe
-#EXTINF:-1 tvg-logo="Logo non disponibile", FC Porto
+Bayern
+https://calcio.codes/live/rb-lipsia-vs-bayern
+#EXTINF:-1 tvg-logo="Logo non disponibile", Everton
 VS
-Moreirense
-https://calcio.codes/live/fc-porto-vs-moreirense
+Ipswich
+https://calcio.codes/live/everton-vs-ipswich
+#EXTINF:-1 tvg-logo="Logo non disponibile", Leicester
+VS
+Southampton
+https://calcio.codes/live/leicester-vs-southampton
+#EXTINF:-1 tvg-logo="Logo non disponibile", Villarreal
+VS
+Osasuna
+https://calcio.codes/live/villarreal-vs-osasuna
+#EXTINF:-1 tvg-logo="Logo non disponibile", Nacional
+VS
+Guimaraes
+https://calcio.codes/live/nacional-vs-guimaraes
+#EXTINF:-1 tvg-logo="Logo non disponibile", Strasburgo
+VS
+PSG
+https://calcio.codes/live/strasburgo-vs-psg
+#EXTINF:-1 tvg-logo="Logo non disponibile", Lecce
+VS
+Napoli
+https://calcio.codes/live/lecce-vs-napoli
+#EXTINF:-1 tvg-logo="Logo non disponibile", Arsenal
+VS
+Bournemouth
+https://calcio.codes/live/arsenal-vs-bournemouth
+#EXTINF:-1 tvg-logo="Logo non disponibile", Dortmund
+VS
+Wolfsburg
+https://calcio.codes/live/dortmund-vs-wolfsburg
+#EXTINF:-1 tvg-logo="Logo non disponibile", Las Palmas
+VS
+Valencia
+https://calcio.codes/live/las-palmas-vs-valencia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Avellino
+VS
+Padova
+https://calcio.codes/live/avellino-vs-padova
+#EXTINF:-1 tvg-logo="Logo non disponibile", Braga
+VS
+Santa Clara
+https://calcio.codes/live/braga-vs-santa-clara
+#EXTINF:-1 tvg-logo="Logo non disponibile", Inter
+VS
+Verona
+https://calcio.codes/live/inter-vs-verona
+#EXTINF:-1 tvg-logo="Logo non disponibile", Valladolid
+VS
+Barcellona
+https://calcio.codes/live/valladolid-vs-barcellona
+#EXTINF:-1 tvg-logo="Logo non disponibile", St. Etienne
+VS
+Monaco
+https://calcio.codes/live/st-etienne-vs-monaco
+#EXTINF:-1 tvg-logo="Logo non disponibile", Estoril
+VS
+Benfica
+https://calcio.codes/live/estoril-vs-benfica
 #EXTINF:-1 tvg-logo="Logo non disponibile", Snooker
 VS
 Campionato del Mondo
