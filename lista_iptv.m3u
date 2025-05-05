@@ -5,35 +5,9 @@
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220220/original/pngtree-television-logo-with-antena-png-image_7271918.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/2/premier-league-new-logo-png_seeklogo-286461.png", Aston Villa - Fulham
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png", GP Miami
 
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Alaves - Atl Madrid
-
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/serie_a-brandlogo.net_-512x512.png", Diretta Goal
-
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/serie_a-brandlogo.net_-512x512.png", Cagliari - Udinese
-
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/serie_a-brandlogo.net_-512x512.png", Parma - Como
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994305-bundesliga-logo-simbolo-bianca-design-germania-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-rosso-sfondo-gratuito-vettoriale.jpg", Bundesliga Multicast
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994305-bundesliga-logo-simbolo-bianca-design-germania-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-rosso-sfondo-gratuito-vettoriale.jpg", Lipsia - Bayern Monaco
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994305-bundesliga-logo-simbolo-bianca-design-germania-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-rosso-sfondo-gratuito-vettoriale.jpg", B. Monchengladbach - Hoffenheim
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994305-bundesliga-logo-simbolo-bianca-design-germania-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-rosso-sfondo-gratuito-vettoriale.jpg", St. Pauli - Stuttgart
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994305-bundesliga-logo-simbolo-bianca-design-germania-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-rosso-sfondo-gratuito-vettoriale.jpg", Union Berlin - Werder BrÃªme
-
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Villarreal - Osasuna
-
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/serie_a-brandlogo.net_-512x512.png", Lecce - Napoli
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png", GP Miami (Sprint Race)
-
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/serie_a-brandlogo.net_-512x512.png", Inter - Verona
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png", GP Miami (qualifiche)
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/serie_a-brandlogo.net_-512x512.png", Controcalcio
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -61,90 +35,62 @@ https://calcio.codes/page/contact
 VS
 GP Stati Uniti - Miami (USA)
 https://calcio.codes/live/formula-1-vs-gp-stati-uniti---miami-usa-
-#EXTINF:-1 tvg-logo="Logo non disponibile", Aston Villa
+#EXTINF:-1 tvg-logo="Logo non disponibile", Diretta Gol
 VS
-Fulham
-https://calcio.codes/live/aston-villa-vs-fulham
-#EXTINF:-1 tvg-logo="Logo non disponibile", Alaves
+Serie C
+https://calcio.codes/live/diretta-gol-vs-serie-c
+#EXTINF:-1 tvg-logo="Logo non disponibile", Benevento
 VS
-Atl. Madrid
-https://calcio.codes/live/alaves-vs-atl-madrid
-#EXTINF:-1 tvg-logo="Logo non disponibile", Zona
+Juventus U23
+https://calcio.codes/live/benevento-vs-juventus-u23
+#EXTINF:-1 tvg-logo="Logo non disponibile", Catania
 VS
-Serie A
-https://calcio.codes/live/zona-vs-serie-a
-#EXTINF:-1 tvg-logo="Logo non disponibile", Cagliari
+Giugliano
+https://calcio.codes/live/catania-vs-giugliano
+#EXTINF:-1 tvg-logo="Logo non disponibile", Trento
 VS
-Udinese
-https://calcio.codes/live/cagliari-vs-udinese
-#EXTINF:-1 tvg-logo="Logo non disponibile", Parma
+Atalanta U23
+https://calcio.codes/live/trento-vs-atalanta-u23
+#EXTINF:-1 tvg-logo="Logo non disponibile", Potenza
 VS
-Como
-https://calcio.codes/live/parma-vs-como
-#EXTINF:-1 tvg-logo="Logo non disponibile", RB Lipsia
+Picerno
+https://calcio.codes/live/potenza-vs-picerno
+#EXTINF:-1 tvg-logo="Logo non disponibile", Arezzo
 VS
-Bayern
-https://calcio.codes/live/rb-lipsia-vs-bayern
-#EXTINF:-1 tvg-logo="Logo non disponibile", Everton
+Gubbio
+https://calcio.codes/live/arezzo-vs-gubbio
+#EXTINF:-1 tvg-logo="Logo non disponibile", Vis Pesaro
 VS
-Ipswich
-https://calcio.codes/live/everton-vs-ipswich
-#EXTINF:-1 tvg-logo="Logo non disponibile", Leicester
+Pontedera
+https://calcio.codes/live/vis-pesaro-vs-pontedera
+#EXTINF:-1 tvg-logo="Logo non disponibile", Pineto
 VS
-Southampton
-https://calcio.codes/live/leicester-vs-southampton
-#EXTINF:-1 tvg-logo="Logo non disponibile", Villarreal
+Pianese
+https://calcio.codes/live/pineto-vs-pianese
+#EXTINF:-1 tvg-logo="Logo non disponibile", Bologna
 VS
-Osasuna
-https://calcio.codes/live/villarreal-vs-osasuna
-#EXTINF:-1 tvg-logo="Logo non disponibile", Nacional
+Juventus
+https://calcio.codes/live/bologna-vs-juventus
+#EXTINF:-1 tvg-logo="Logo non disponibile", Lilla
 VS
-Guimaraes
-https://calcio.codes/live/nacional-vs-guimaraes
-#EXTINF:-1 tvg-logo="Logo non disponibile", Strasburgo
+Marsiglia
+https://calcio.codes/live/lilla-vs-marsiglia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Real Sociedad
 VS
-PSG
-https://calcio.codes/live/strasburgo-vs-psg
-#EXTINF:-1 tvg-logo="Logo non disponibile", Lecce
+Ath. Bilbao
+https://calcio.codes/live/real-sociedad-vs-ath-bilbao
+#EXTINF:-1 tvg-logo="Logo non disponibile", Sporting
 VS
-Napoli
-https://calcio.codes/live/lecce-vs-napoli
-#EXTINF:-1 tvg-logo="Logo non disponibile", Arsenal
+Gil Vicente
+https://calcio.codes/live/sporting-vs-gil-vicente
+#EXTINF:-1 tvg-logo="Logo non disponibile", Tigre
 VS
-Bournemouth
-https://calcio.codes/live/arsenal-vs-bournemouth
-#EXTINF:-1 tvg-logo="Logo non disponibile", Dortmund
+Boca Juniors
+https://calcio.codes/live/tigre-vs-boca-juniors
+#EXTINF:-1 tvg-logo="Logo non disponibile", River Plate
 VS
-Wolfsburg
-https://calcio.codes/live/dortmund-vs-wolfsburg
-#EXTINF:-1 tvg-logo="Logo non disponibile", Las Palmas
-VS
-Valencia
-https://calcio.codes/live/las-palmas-vs-valencia
-#EXTINF:-1 tvg-logo="Logo non disponibile", Avellino
-VS
-Padova
-https://calcio.codes/live/avellino-vs-padova
-#EXTINF:-1 tvg-logo="Logo non disponibile", Braga
-VS
-Santa Clara
-https://calcio.codes/live/braga-vs-santa-clara
-#EXTINF:-1 tvg-logo="Logo non disponibile", Inter
-VS
-Verona
-https://calcio.codes/live/inter-vs-verona
-#EXTINF:-1 tvg-logo="Logo non disponibile", Valladolid
-VS
-Barcellona
-https://calcio.codes/live/valladolid-vs-barcellona
-#EXTINF:-1 tvg-logo="Logo non disponibile", St. Etienne
-VS
-Monaco
-https://calcio.codes/live/st-etienne-vs-monaco
-#EXTINF:-1 tvg-logo="Logo non disponibile", Estoril
-VS
-Benfica
-https://calcio.codes/live/estoril-vs-benfica
+Velez Sarsfield
+https://calcio.codes/live/river-plate-vs-velez-sarsfield
 #EXTINF:-1 tvg-logo="Logo non disponibile", Snooker
 VS
 Campionato del Mondo
