@@ -7,21 +7,15 @@
 
 #EXTINF:-1 tvg-logo="https://makeitmatta.com/wp-content/uploads/2024/04/ATP_RGB_Mono_NEG-1024x452.png", ATP Roma
 
-#EXTINF:-1 tvg-logo="https://sky-programmi.kleecks-cdn.com/images/cc/upload/f_webp/v1/sport/competition-logo-3qcu8kntku", Inter - Barcellona
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png", Crotone - Juventus NG
 
-#EXTINF:-1 tvg-logo="https://makeitmatta.com/wp-content/uploads/2024/04/ATP_RGB_Mono_NEG-1024x452.png", ATP Roma
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png", Catania - Potenza
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/1200px-Serie_C_NOW_2024.png", Crotone - Juventus Next Gen
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png", Pescara - Pianese
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/1200px-Serie_C_NOW_2024.png", Catania - Potenza
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png", Albinoleffe - Atalanta U23
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/1200px-Serie_C_NOW_2024.png", Pescara - Pianese
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/1200px-Serie_C_NOW_2024.png", Albinaleffe - Atalanta U23
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/1200px-Serie_C_NOW_2024.png", Arezzo - Vis Pesaro
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/1200px-Serie_C_NOW_2024.png", Renate - Giana Erminio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png", Arezzo - Vis Pesaro
 
 #EXTINF:-1 tvg-logo="https://sky-programmi.kleecks-cdn.com/images/cc/upload/f_webp/v1/sport/competition-logo-3qcu8kntku", PSG - Arsenal
 
@@ -47,10 +41,42 @@ https://www.guardaserie01.bio/
 https://calcio.codes/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.codes/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", Inter
+#EXTINF:-1 tvg-logo="Logo non disponibile", Crotone
 VS
-Barcellona
-https://calcio.codes/live/inter-vs-barcellona
+Juventus U23
+https://calcio.codes/live/crotone-vs-juventus-u23
+#EXTINF:-1 tvg-logo="Logo non disponibile", Catania
+VS
+Potenza
+https://calcio.codes/live/catania-vs-potenza
+#EXTINF:-1 tvg-logo="Logo non disponibile", Pescara
+VS
+Pianese
+https://calcio.codes/live/pescara-vs-pianese
+#EXTINF:-1 tvg-logo="Logo non disponibile", AlbinoLeffe
+VS
+Atalanta U23
+https://calcio.codes/live/albinoleffe-vs-atalanta-u23
+#EXTINF:-1 tvg-logo="Logo non disponibile", Arezzo
+VS
+Vis Pesaro
+https://calcio.codes/live/arezzo-vs-vis-pesaro
+#EXTINF:-1 tvg-logo="Logo non disponibile", Renate
+VS
+Giana Erminio
+https://calcio.codes/live/renate-vs-giana-erminio
+#EXTINF:-1 tvg-logo="Logo non disponibile", Al-Raed
+VS
+Al-Hilal
+https://calcio.codes/live/al-raed-vs-al-hilal
+#EXTINF:-1 tvg-logo="Logo non disponibile", Al Nassr FC
+VS
+Al-Ittihad FC
+https://calcio.codes/live/al-nassr-fc-vs-al-ittihad-fc
+#EXTINF:-1 tvg-logo="Logo non disponibile", PSG
+VS
+Arsenal
+https://calcio.codes/live/psg-vs-arsenal
 #EXTINF:-1 tvg-logo="Logo non disponibile", Sky Sport
 VS
 NBA
