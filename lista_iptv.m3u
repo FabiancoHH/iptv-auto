@@ -7,17 +7,21 @@
 
 #EXTINF:-1 tvg-logo="https://makeitmatta.com/wp-content/uploads/2024/04/ATP_RGB_Mono_NEG-1024x452.png", ATP Roma
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png", Crotone - Juventus NG
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994449-europa-lega-logo-simbolo-bianca-design-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-nero-sfondo-gratuito-vettoriale.jpg", Diretta Goal
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png", Catania - Potenza
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994449-europa-lega-logo-simbolo-bianca-design-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-nero-sfondo-gratuito-vettoriale.jpg", Manchester United - Athletic Bilbao
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png", Pescara - Pianese
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994449-europa-lega-logo-simbolo-bianca-design-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-nero-sfondo-gratuito-vettoriale.jpg", Bodo/Glimt - Tottenham
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png", Albinoleffe - Atalanta U23
+#EXTINF:-1 tvg-logo="https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png", Fiorentina - Betis
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png", Arezzo - Vis Pesaro
+#EXTINF:-1 tvg-logo="https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png", Chelsea - Djurgarden
 
-#EXTINF:-1 tvg-logo="https://sky-programmi.kleecks-cdn.com/images/cc/upload/f_webp/v1/sport/competition-logo-3qcu8kntku", PSG - Arsenal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/4a/Serie_B_ConTe.it.svg/1200px-Serie_B_ConTe.it.svg.png", Diretta Goal
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/4a/Serie_B_ConTe.it.svg/1200px-Serie_B_ConTe.it.svg.png", Sampdoria - Salernitana
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/4a/Serie_B_ConTe.it.svg/1200px-Serie_B_ConTe.it.svg.png", Cittadella - Bari
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -41,42 +45,30 @@ https://www.guardaserie01.bio/
 https://calcio.codes/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.codes/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", Crotone
+#EXTINF:-1 tvg-logo="Logo non disponibile", Diretta Gol
 VS
-Juventus U23
-https://calcio.codes/live/crotone-vs-juventus-u23
-#EXTINF:-1 tvg-logo="Logo non disponibile", Catania
+Europa
+https://calcio.codes/live/diretta-gol-vs-europa
+#EXTINF:-1 tvg-logo="Logo non disponibile", Fiorentina
 VS
-Potenza
-https://calcio.codes/live/catania-vs-potenza
-#EXTINF:-1 tvg-logo="Logo non disponibile", Pescara
+Betis
+https://calcio.codes/live/fiorentina-vs-betis
+#EXTINF:-1 tvg-logo="Logo non disponibile", Manchester Utd
 VS
-Pianese
-https://calcio.codes/live/pescara-vs-pianese
-#EXTINF:-1 tvg-logo="Logo non disponibile", AlbinoLeffe
+Ath. Bilbao
+https://calcio.codes/live/manchester-utd-vs-ath-bilbao
+#EXTINF:-1 tvg-logo="Logo non disponibile", Bodo/Glimt
 VS
-Atalanta U23
-https://calcio.codes/live/albinoleffe-vs-atalanta-u23
-#EXTINF:-1 tvg-logo="Logo non disponibile", Arezzo
+Tottenham
+https://calcio.codes/live/bodo-glimt-vs-tottenham
+#EXTINF:-1 tvg-logo="Logo non disponibile", Chelsea
 VS
-Vis Pesaro
-https://calcio.codes/live/arezzo-vs-vis-pesaro
-#EXTINF:-1 tvg-logo="Logo non disponibile", Renate
+Djurgarden
+https://calcio.codes/live/chelsea-vs-djurgarden
+#EXTINF:-1 tvg-logo="Logo non disponibile", Bristol City
 VS
-Giana Erminio
-https://calcio.codes/live/renate-vs-giana-erminio
-#EXTINF:-1 tvg-logo="Logo non disponibile", Al-Raed
-VS
-Al-Hilal
-https://calcio.codes/live/al-raed-vs-al-hilal
-#EXTINF:-1 tvg-logo="Logo non disponibile", Al Nassr FC
-VS
-Al-Ittihad FC
-https://calcio.codes/live/al-nassr-fc-vs-al-ittihad-fc
-#EXTINF:-1 tvg-logo="Logo non disponibile", PSG
-VS
-Arsenal
-https://calcio.codes/live/psg-vs-arsenal
+Sheffield Utd
+https://calcio.codes/live/bristol-city-vs-sheffield-utd
 #EXTINF:-1 tvg-logo="Logo non disponibile", Sky Sport
 VS
 NBA
