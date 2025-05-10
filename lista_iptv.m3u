@@ -7,21 +7,21 @@
 
 #EXTINF:-1 tvg-logo="https://makeitmatta.com/wp-content/uploads/2024/04/ATP_RGB_Mono_NEG-1024x452.png", ATP Roma
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994449-europa-lega-logo-simbolo-bianca-design-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-nero-sfondo-gratuito-vettoriale.jpg", Diretta Goal
+#EXTINF:-1 tvg-logo="https://www.ilcorrieredelpallone.it/wp-content/uploads/2023/04/motogp-logo.jpg", GP Francia (libere )
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994449-europa-lega-logo-simbolo-bianca-design-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-nero-sfondo-gratuito-vettoriale.jpg", Manchester United - Athletic Bilbao
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/serie_a-logo_brandlogos.net_kmz4e.png", Como - Cagliari
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/ti/vettori-gratis/p1/10994449-europa-lega-logo-simbolo-bianca-design-calcio-vettore-europeo-paesi-calcio-squadre-illustrazione-con-nero-sfondo-gratuito-vettoriale.jpg", Bodo/Glimt - Tottenham
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/1200px-Serie_C_NOW_2024.png", Messina - Foggia
 
-#EXTINF:-1 tvg-logo="https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png", Fiorentina - Betis
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB6HuTzcFNM_K5PmaxoOs3NrM-nbmaO4WilQ&s", Werder Brema - Lipsia
 
-#EXTINF:-1 tvg-logo="https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png", Chelsea - Djurgarden
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB6HuTzcFNM_K5PmaxoOs3NrM-nbmaO4WilQ&s", Southampton - Manchester City
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/4a/Serie_B_ConTe.it.svg/1200px-Serie_B_ConTe.it.svg.png", Diretta Goal
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB6HuTzcFNM_K5PmaxoOs3NrM-nbmaO4WilQ&s", Fulham - Everton
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/4a/Serie_B_ConTe.it.svg/1200px-Serie_B_ConTe.it.svg.png", Sampdoria - Salernitana
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB6HuTzcFNM_K5PmaxoOs3NrM-nbmaO4WilQ&s", Wolverhampton - Brighton
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/4a/Serie_B_ConTe.it.svg/1200px-Serie_B_ConTe.it.svg.png", Cittadella - Bari
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB6HuTzcFNM_K5PmaxoOs3NrM-nbmaO4WilQ&s", Ipswich - Brentford
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -45,18 +45,70 @@ https://www.guardaserie01.bio/
 https://calcio.codes/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.codes/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", Diretta Gol
+#EXTINF:-1 tvg-logo="Logo non disponibile", MOTOGP
 VS
-Europa
-https://calcio.codes/live/diretta-gol-vs-europa
-#EXTINF:-1 tvg-logo="Logo non disponibile", Fiorentina
+Le Mans (Francia)
+https://calcio.codes/live/motogp-vs-le-mans-francia-
+#EXTINF:-1 tvg-logo="Logo non disponibile", Zona
 VS
-Betis
-https://calcio.codes/live/fiorentina-vs-betis
-#EXTINF:-1 tvg-logo="Logo non disponibile", Manchester Utd
+Serie B
+https://calcio.codes/live/zona-vs-serie-b
+#EXTINF:-1 tvg-logo="Logo non disponibile", Cittadella
 VS
-Ath. Bilbao
-https://calcio.codes/live/manchester-utd-vs-ath-bilbao
+Bari
+https://calcio.codes/live/cittadella-vs-bari
+#EXTINF:-1 tvg-logo="Logo non disponibile", Cosenza
+VS
+Cesena
+https://calcio.codes/live/cosenza-vs-cesena
+#EXTINF:-1 tvg-logo="Logo non disponibile", Juve Stabia
+VS
+Reggiana
+https://calcio.codes/live/juve-stabia-vs-reggiana
+#EXTINF:-1 tvg-logo="Logo non disponibile", Mantova
+VS
+Carrarese
+https://calcio.codes/live/mantova-vs-carrarese
+#EXTINF:-1 tvg-logo="Logo non disponibile", Modena
+VS
+Brescia
+https://calcio.codes/live/modena-vs-brescia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Palermo
+VS
+Frosinone
+https://calcio.codes/live/palermo-vs-frosinone
+#EXTINF:-1 tvg-logo="Logo non disponibile", Pisa
+VS
+Südtirol
+https://calcio.codes/live/pisa-vs-s-dtirol
+#EXTINF:-1 tvg-logo="Logo non disponibile", Sampdoria
+VS
+Salernitana
+https://calcio.codes/live/sampdoria-vs-salernitana
+#EXTINF:-1 tvg-logo="Logo non disponibile", Sassuolo
+VS
+Catanzaro
+https://calcio.codes/live/sassuolo-vs-catanzaro
+#EXTINF:-1 tvg-logo="Logo non disponibile", Spezia
+VS
+Cremonese
+https://calcio.codes/live/spezia-vs-cremonese
+#EXTINF:-1 tvg-logo="Logo non disponibile", Wolfsburg
+VS
+Hoffenheim
+https://calcio.codes/live/wolfsburg-vs-hoffenheim
+#EXTINF:-1 tvg-logo="Logo non disponibile", Milan
+VS
+Bologna
+https://calcio.codes/live/milan-vs-bologna
+#EXTINF:-1 tvg-logo="Logo non disponibile", Las Palmas
+VS
+Vallecano
+https://calcio.codes/live/las-palmas-vs-vallecano
+#EXTINF:-1 tvg-logo="Logo non disponibile", Coventry
+VS
+Sunderland
+https://calcio.codes/live/coventry-vs-sunderland
 #EXTINF:-1 tvg-logo="Logo non disponibile", Bodo/Glimt
 VS
 Tottenham
