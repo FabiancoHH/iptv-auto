@@ -7,27 +7,25 @@
 
 #EXTINF:-1 tvg-logo="https://makeitmatta.com/wp-content/uploads/2024/04/ATP_RGB_Mono_NEG-1024x452.png", ATP Roma
 
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", AlavÃ©s - Valencia
+#EXTINF:-1 tvg-logo="https://www.gardaoutdoor.blog/wp-content/uploads/2021/11/logo-giro-2022-320x275.png", Giro d'Italia
 
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Villarreal - LeganÃ©s
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Osasuna - AtlÃ©tico Madrid
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/1200px-Serie_C_NOW_2024.png", Diretta Goal
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Espanyol - Barcelona
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/1200px-Serie_C_NOW_2024.png", Pescara - Catania
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Emblem.png", GP Italia (libere 1)
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/1200px-Serie_C_NOW_2024.png", FeralpisalÃ² - Crotone
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Emblem.png", GP Italia (libere 2)
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/1200px-Serie_C_NOW_2024.png", Torres - Atalanta U23
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Emblem.png", GP Italia (libere 3)
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/1200px-Serie_C_NOW_2024.png", Monopoli - Giana Erminio
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Emblem.png", GP Italia (qualifiche)
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/1200px-Serie_C_NOW_2024.png", Monopoli - Giana Erminio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/12/Logo_Lega_Basket_2018.png", Dolomiti Energia Trentino - EA7 Olimpia Milano
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/1200px-Serie_C_NOW_2024.png", Rimini - Vis Pesaro
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/12/Logo_Lega_Basket_2018.png", Germani Brescia - Pallacanestro Trieste
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Coccarda_Coppa_Italia.svg", Milan - Bologna
-
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Real Madrid - Maiorca
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/12/Logo_Lega_Basket_2018.png", Trapani Shark - UNAHOTELS Reggio Emilia
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -51,50 +49,26 @@ https://www.guardaserie01.bio/
 https://calcio.codes/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.codes/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", Villarreal
+#EXTINF:-1 tvg-logo="Logo non disponibile", Osasuna
 VS
-Leganes
-https://calcio.codes/live/villarreal-vs-leganes
-#EXTINF:-1 tvg-logo="Logo non disponibile", Alaves
+Atl. Madrid
+https://calcio.codes/live/osasuna-vs-atl-madrid
+#EXTINF:-1 tvg-logo="Logo non disponibile", Vallecano
 VS
-Valencia
-https://calcio.codes/live/alaves-vs-valencia
-#EXTINF:-1 tvg-logo="Logo non disponibile", Diretta Gol
+Betis
+https://calcio.codes/live/vallecano-vs-betis
+#EXTINF:-1 tvg-logo="Logo non disponibile", Al-Raed
 VS
-Serie C
-https://calcio.codes/live/diretta-gol-vs-serie-c
-#EXTINF:-1 tvg-logo="Logo non disponibile", Pescara
+Al-Ittihad FC
+https://calcio.codes/live/al-raed-vs-al-ittihad-fc
+#EXTINF:-1 tvg-logo="Logo non disponibile", Espanyol
 VS
-Catania
-https://calcio.codes/live/pescara-vs-catania
-#EXTINF:-1 tvg-logo="Logo non disponibile", FeralpiSalò
+Barcellona
+https://calcio.codes/live/espanyol-vs-barcellona
+#EXTINF:-1 tvg-logo="Logo non disponibile", Getafe
 VS
-Crotone
-https://calcio.codes/live/feralpisal-vs-crotone
-#EXTINF:-1 tvg-logo="Logo non disponibile", Torres
-VS
-Atalanta U23
-https://calcio.codes/live/torres-vs-atalanta-u23
-#EXTINF:-1 tvg-logo="Logo non disponibile", Monopoli
-VS
-Giana Erminio
-https://calcio.codes/live/monopoli-vs-giana-erminio
-#EXTINF:-1 tvg-logo="Logo non disponibile", Rimini
-VS
-Vis Pesaro
-https://calcio.codes/live/rimini-vs-vis-pesaro
-#EXTINF:-1 tvg-logo="Logo non disponibile", Dunkerque
-VS
-Guingamp
-https://calcio.codes/live/dunkerque-vs-guingamp
-#EXTINF:-1 tvg-logo="Logo non disponibile", Milan
-VS
-Bologna
-https://calcio.codes/live/milan-vs-bologna-1
-#EXTINF:-1 tvg-logo="Logo non disponibile", Real Madrid
-VS
-Maiorca
-https://calcio.codes/live/real-madrid-vs-maiorca
+Ath. Bilbao
+https://calcio.codes/live/getafe-vs-ath-bilbao
 #EXTINF:-1 tvg-logo="Logo non disponibile", Sky Sport
 VS
 NBA
