@@ -9,15 +9,17 @@
 
 #EXTINF:-1 tvg-logo="https://images.motorsport-magazin.com/images/960/540/q_80/1088024.jpg", Gp Gran Bretagna (libere)
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Emblem.png", Gp Monaco (libere 1)
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Emblem.png", Gp Monaco (qualifiche)
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Emblem.png", Gp Monaco (libere 2)
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Real Madrid - Real Sociedad
 
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/serie_a-logo_brandlogos.net_kmz4e.png", Diretta Goal
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/serie_a-logo_brandlogos.net_kmz4e.png", Bologna - Genoa
 
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/serie_a-logo_brandlogos.net_kmz4e.png", Napoli - Cagliari
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ciFHeH-S0yfymrxNGqbOcs7DqC4j3d2JyA&s", Arminia Bielefeld - Stoccarda
 
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/serie_a-logo_brandlogos.net_kmz4e.png", Como - Inter
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/serie_a-logo_brandlogos.net_kmz4e.png", Milan - Monza
+
+#EXTINF:-1 tvg-logo="https://lafrancianelpallone.com/wp-content/uploads/2015/10/logo-coupe-france__nut51q-e1445874891960.png?w=290&h=270&crop=1", PSG - Reims
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -49,22 +51,62 @@ https://calcio.best/live/formula-1-vs-gp-monaco
 VS
 Silverstone (Regno Unito)
 https://calcio.best/live/motogp-vs-silverstone-regno-unito-
-#EXTINF:-1 tvg-logo="Logo non disponibile", Zona Gol
+#EXTINF:-1 tvg-logo="Logo non disponibile", Sheffield Utd
 VS
-Serie A
-https://calcio.best/live/zona-gol-vs-serie-a
-#EXTINF:-1 tvg-logo="Logo non disponibile", Napoli
+Sunderland
+https://calcio.best/live/sheffield-utd-vs-sunderland
+#EXTINF:-1 tvg-logo="Logo non disponibile", Real Madrid
 VS
-Cagliari
-https://calcio.best/live/napoli-vs-cagliari
-#EXTINF:-1 tvg-logo="Logo non disponibile", Como
+Real Sociedad
+https://calcio.best/live/real-madrid-vs-real-sociedad
+#EXTINF:-1 tvg-logo="Logo non disponibile", Bologna
 VS
-Inter
-https://calcio.best/live/como-vs-inter
-#EXTINF:-1 tvg-logo="Logo non disponibile", Betis
+Genoa
+https://calcio.best/live/bologna-vs-genoa
+#EXTINF:-1 tvg-logo="Logo non disponibile", Arsenal D
 VS
-Valencia
-https://calcio.best/live/betis-vs-valencia
+Barcellona D
+https://calcio.best/live/arsenal-d-vs-barcellona-d
+#EXTINF:-1 tvg-logo="Logo non disponibile", Espanyol
+VS
+Las Palmas
+https://calcio.best/live/espanyol-vs-las-palmas
+#EXTINF:-1 tvg-logo="Logo non disponibile", Leganes
+VS
+Valladolid
+https://calcio.best/live/leganes-vs-valladolid
+#EXTINF:-1 tvg-logo="Logo non disponibile", Bielefeld
+VS
+Stoccarda
+https://calcio.best/live/bielefeld-vs-stoccarda
+#EXTINF:-1 tvg-logo="Logo non disponibile", AFS
+VS
+Vizela
+https://calcio.best/live/afs-vs-vizela
+#EXTINF:-1 tvg-logo="Logo non disponibile", Milan
+VS
+Monza
+https://calcio.best/live/milan-vs-monza
+#EXTINF:-1 tvg-logo="Logo non disponibile", Alaves
+VS
+Osasuna
+https://calcio.best/live/alaves-vs-osasuna
+#EXTINF:-1 tvg-logo="Logo non disponibile", Getafe
+VS
+Celta Vigo
+https://calcio.best/live/getafe-vs-celta-vigo
+#EXTINF:-1 tvg-logo="Logo non disponibile", Vallecano
+VS
+Maiorca
+https://calcio.best/live/vallecano-vs-maiorca
+#EXTINF:-1 tvg-logo="Logo non disponibile", PSG
+VS
+Reims
+https://calcio.best/live/psg-vs-reims
+#EXTINF:-1 tvg-logo="Logo non disponibile", Independiente
+VS
+Huracan
+https://calcio.best/live/independiente-vs-huracan
 #EXTINF:-1 tvg-logo="Logo non disponibile", Sky Sport
 VS
 NBA
