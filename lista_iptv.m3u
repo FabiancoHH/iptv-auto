@@ -7,37 +7,11 @@
 
 #EXTINF:-1 tvg-logo="https://www.gardaoutdoor.blog/wp-content/uploads/2021/11/logo-giro-2022-320x275.png", Giro d'Italia
 
-#EXTINF:-1 tvg-logo="https://images.motorsport-magazin.com/images/960/540/q_80/1088024.jpg", Gp Gran Bretagna
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png", Ternana - Vicenza
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Emblem.png", Gp Monaco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png", Pescara - Audace Cerignola
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEPBjXm5XyTS4Xh-EAI4M7MUEfMv9yjElrow&s", Diretta Goal
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEPBjXm5XyTS4Xh-EAI4M7MUEfMv9yjElrow&s", Liverpool - Crystal Palace
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEPBjXm5XyTS4Xh-EAI4M7MUEfMv9yjElrow&s", Nottingham Forest - Chelsea
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBmxv5RBBxUMlAyPZmoUCc1JiLUDokExR-1g&s", Cremonese - Juve Stabia
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBmxv5RBBxUMlAyPZmoUCc1JiLUDokExR-1g&s", Spezia - Catanzaro
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBmxv5RBBxUMlAyPZmoUCc1JiLUDokExR-1g&s", Vicenza - Ternana
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBmxv5RBBxUMlAyPZmoUCc1JiLUDokExR-1g&s", Audace Cerignola - Pescara
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/261px-Serie_A_logo_2022.svg.png", Diretta Goal
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/261px-Serie_A_logo_2022.svg.png", Venezia - Juventus
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/261px-Serie_A_logo_2022.svg.png", Lazio - Lecce
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/261px-Serie_A_logo_2022.svg.png", Empoli - Verona
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/261px-Serie_A_logo_2022.svg.png", Torino - Roma
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/261px-Serie_A_logo_2022.svg.png", Atalanta - Parma
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/261px-Serie_A_logo_2022.svg.png", Udinese - Fiorentina
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nWrxbKkGog67rL2MBswBdFUdZXYjjsA2y_eZFkD0wufs7_ImP-564xgJudsTffgiH-Lt", Betis - Chelsea
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -61,10 +35,26 @@ https://www.guardaserie01.bio/
 https://calcio.best/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.best/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", Wydad (Mar)
+#EXTINF:-1 tvg-logo="Logo non disponibile", ASEAN A. (Asi)
 VS
-Siviglia (Esp)
-https://calcio.best/live/wydad-mar-vs-siviglia-esp-
+Manchester Utd (Eng)
+https://calcio.best/live/asean-a-asi-vs-manchester-utd-eng-
+#EXTINF:-1 tvg-logo="Logo non disponibile", Ternana
+VS
+L.R. Vicenza
+https://calcio.best/live/ternana-vs-l-r-vicenza
+#EXTINF:-1 tvg-logo="Logo non disponibile", Pescara
+VS
+Audace Cerignola
+https://calcio.best/live/pescara-vs-audace-cerignola
+#EXTINF:-1 tvg-logo="Logo non disponibile", Betis
+VS
+Chelsea
+https://calcio.best/live/betis-vs-chelsea
+#EXTINF:-1 tvg-logo="Logo non disponibile", Santos (Bra)
+VS
+RB Lipsia (Ger)
+https://calcio.best/live/santos-bra-vs-rb-lipsia-ger-
 #EXTINF:-1 tvg-logo="Logo non disponibile", ATP - SINGOLARE
 VS
 Open di Francia ES1
