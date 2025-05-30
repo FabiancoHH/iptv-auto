@@ -7,11 +7,7 @@
 
 #EXTINF:-1 tvg-logo="https://www.gardaoutdoor.blog/wp-content/uploads/2021/11/logo-giro-2022-320x275.png", Giro d'Italia
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png", Ternana - Vicenza
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png", Pescara - Audace Cerignola
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nWrxbKkGog67rL2MBswBdFUdZXYjjsA2y_eZFkD0wufs7_ImP-564xgJudsTffgiH-Lt", Betis - Chelsea
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/800px-Serie_BKT.svg.png", Cremonese - Spezia
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -35,26 +31,14 @@ https://www.guardaserie01.bio/
 https://calcio.best/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.best/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", ASEAN A. (Asi)
+#EXTINF:-1 tvg-logo="Logo non disponibile", Cremonese
 VS
-Manchester Utd (Eng)
-https://calcio.best/live/asean-a-asi-vs-manchester-utd-eng-
-#EXTINF:-1 tvg-logo="Logo non disponibile", Ternana
+Spezia
+https://calcio.best/live/cremonese-vs-spezia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Reims
 VS
-L.R. Vicenza
-https://calcio.best/live/ternana-vs-l-r-vicenza
-#EXTINF:-1 tvg-logo="Logo non disponibile", Pescara
-VS
-Audace Cerignola
-https://calcio.best/live/pescara-vs-audace-cerignola
-#EXTINF:-1 tvg-logo="Logo non disponibile", Betis
-VS
-Chelsea
-https://calcio.best/live/betis-vs-chelsea
-#EXTINF:-1 tvg-logo="Logo non disponibile", Santos (Bra)
-VS
-RB Lipsia (Ger)
-https://calcio.best/live/santos-bra-vs-rb-lipsia-ger-
+Metz
+https://calcio.best/live/reims-vs-metz
 #EXTINF:-1 tvg-logo="Logo non disponibile", ATP - SINGOLARE
 VS
 Open di Francia ES1
