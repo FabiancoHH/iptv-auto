@@ -7,7 +7,13 @@
 
 #EXTINF:-1 tvg-logo="https://www.gardaoutdoor.blog/wp-content/uploads/2021/11/logo-giro-2022-320x275.png", Giro d'Italia
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/800px-Serie_BKT.svg.png", Cremonese - Spezia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/f7/Roland_Garros.svg", Roland Garros
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/800px-Serie_BKT.svg.png", GP Spagna (libere 1)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png", GP Spagna (libere 1)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png", GP Spagna (libere 2)
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -31,14 +37,10 @@ https://www.guardaserie01.bio/
 https://calcio.best/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.best/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", Cremonese
+#EXTINF:-1 tvg-logo="Logo non disponibile", FORMULA 1
 VS
-Spezia
-https://calcio.best/live/cremonese-vs-spezia
-#EXTINF:-1 tvg-logo="Logo non disponibile", Reims
-VS
-Metz
-https://calcio.best/live/reims-vs-metz
+GP Spagna
+https://calcio.best/live/formula-1-vs-gp-spagna
 #EXTINF:-1 tvg-logo="Logo non disponibile", ATP - SINGOLARE
 VS
 Open di Francia ES1
