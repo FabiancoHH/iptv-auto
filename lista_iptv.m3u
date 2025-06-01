@@ -9,11 +9,9 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/f7/Roland_Garros.svg", Roland Garros
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/800px-Serie_BKT.svg.png", GP Spagna (libere 1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png", GP Spagna (qualifiche)
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png", GP Spagna (libere 1)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png", GP Spagna (libere 2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLxJEg1q4HMcvTLVI-1komK6ltxZu9FhruODWCztU7dKENG1VfooRrLYNSLpAIGJU8jKI&usqp=CAU", PSG - Inter
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -41,6 +39,14 @@ https://calcio.best/page/contact
 VS
 GP Spagna
 https://calcio.best/live/formula-1-vs-gp-spagna
+#EXTINF:-1 tvg-logo="Logo non disponibile", PSG
+VS
+Inter
+https://calcio.best/live/psg-vs-inter
+#EXTINF:-1 tvg-logo="Logo non disponibile", Los Angeles FC
+VS
+Club America
+https://calcio.best/live/los-angeles-fc-vs-club-america
 #EXTINF:-1 tvg-logo="Logo non disponibile", ATP - SINGOLARE
 VS
 Open di Francia ES1
