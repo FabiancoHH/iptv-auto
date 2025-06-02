@@ -9,9 +9,7 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/f7/Roland_Garros.svg", Roland Garros
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png", GP Spagna (qualifiche)
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLxJEg1q4HMcvTLVI-1komK6ltxZu9FhruODWCztU7dKENG1VfooRrLYNSLpAIGJU8jKI&usqp=CAU", PSG - Inter
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png", Spezia - Cremonese
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -39,14 +37,18 @@ https://calcio.best/page/contact
 VS
 GP Spagna
 https://calcio.best/live/formula-1-vs-gp-spagna
-#EXTINF:-1 tvg-logo="Logo non disponibile", PSG
+#EXTINF:-1 tvg-logo="Logo non disponibile", Spezia
 VS
-Inter
-https://calcio.best/live/psg-vs-inter
-#EXTINF:-1 tvg-logo="Logo non disponibile", Los Angeles FC
+Cremonese
+https://calcio.best/live/spezia-vs-cremonese
+#EXTINF:-1 tvg-logo="Logo non disponibile", Vizela
 VS
-Club America
-https://calcio.best/live/los-angeles-fc-vs-club-america
+AFS
+https://calcio.best/live/vizela-vs-afs
+#EXTINF:-1 tvg-logo="Logo non disponibile", Huracan
+VS
+Platense
+https://calcio.best/live/huracan-vs-platense
 #EXTINF:-1 tvg-logo="Logo non disponibile", ATP - SINGOLARE
 VS
 Open di Francia ES1
