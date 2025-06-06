@@ -9,7 +9,13 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/f7/Roland_Garros.svg", Roland Garros
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png", Spezia - Cremonese
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/28/Campionato_mondiale_di_calcio_2026_logo.svg/1749px-Campionato_mondiale_di_calcio_2026_logo.svg.png", Australia - Japan
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/28/Campionato_mondiale_di_calcio_2026_logo.svg/1749px-Campionato_mondiale_di_calcio_2026_logo.svg.png", Indonesia - China
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/28/Campionato_mondiale_di_calcio_2026_logo.svg/1749px-Campionato_mondiale_di_calcio_2026_logo.svg.png", Bahrain - Saudi Arabia
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/8/80/UEFA_Nations_League.svg", Spagna - Francia
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -33,10 +39,26 @@ https://www.guardaserie01.bio/
 https://calcio.best/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.best/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", Germania
+#EXTINF:-1 tvg-logo="Logo non disponibile", Iraq
 VS
-Portogallo
-https://calcio.best/live/germania-vs-portogallo
+Corea del Sud
+https://calcio.best/live/iraq-vs-corea-del-sud
+#EXTINF:-1 tvg-logo="Logo non disponibile", Spagna
+VS
+Francia
+https://calcio.best/live/spagna-vs-francia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Ecuador
+VS
+Brasile
+https://calcio.best/live/ecuador-vs-brasile
+#EXTINF:-1 tvg-logo="Logo non disponibile", Paraguay
+VS
+Uruguay
+https://calcio.best/live/paraguay-vs-uruguay
+#EXTINF:-1 tvg-logo="Logo non disponibile", Cile
+VS
+Argentina
+https://calcio.best/live/cile-vs-argentina
 #EXTINF:-1 tvg-logo="Logo non disponibile", ATP - SINGOLARE
 VS
 Open di Francia ES1
