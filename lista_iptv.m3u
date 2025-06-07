@@ -9,13 +9,21 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/f7/Roland_Garros.svg", Roland Garros
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/28/Campionato_mondiale_di_calcio_2026_logo.svg/1749px-Campionato_mondiale_di_calcio_2026_logo.svg.png", Australia - Japan
+#EXTINF:-1 tvg-logo="https://www.sporteconomy.it/wp-content/uploads/2022/12/Campionato_mondiale_di_calcio_2026_logo.svg.png", Diretta Goal
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/28/Campionato_mondiale_di_calcio_2026_logo.svg/1749px-Campionato_mondiale_di_calcio_2026_logo.svg.png", Indonesia - China
+#EXTINF:-1 tvg-logo="https://www.sporteconomy.it/wp-content/uploads/2022/12/Campionato_mondiale_di_calcio_2026_logo.svg.png", Norvegia - Italia
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/28/Campionato_mondiale_di_calcio_2026_logo.svg/1749px-Campionato_mondiale_di_calcio_2026_logo.svg.png", Bahrain - Saudi Arabia
+#EXTINF:-1 tvg-logo="https://www.sporteconomy.it/wp-content/uploads/2022/12/Campionato_mondiale_di_calcio_2026_logo.svg.png", Macedonia del Nord - Belgio
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/8/80/UEFA_Nations_League.svg", Spagna - Francia
+#EXTINF:-1 tvg-logo="https://external-preview.redd.it/ot-new-motogp-logo-brandings-v0-s-zLbJQl67qFig7gxd8UXCoXWq7qBJviHjW3AhaQMqY.jpg?width=640&crop=smart&auto=webp&s=3cad310b06e9adeac1924e3e339c3a21197f0eb6", Gp Spagna (libere e qualifiche)
+
+#EXTINF:-1 tvg-logo="https://www.sporteconomy.it/wp-content/uploads/2022/12/Campionato_mondiale_di_calcio_2026_logo.svg.png", Bosnia - San Marino
+
+#EXTINF:-1 tvg-logo="https://www.sporteconomy.it/wp-content/uploads/2022/12/Campionato_mondiale_di_calcio_2026_logo.svg.png", Andorra - Inghilterra
+
+#EXTINF:-1 tvg-logo="https://www.sporteconomy.it/wp-content/uploads/2022/12/Campionato_mondiale_di_calcio_2026_logo.svg.png", Malta - Lituania
+
+#EXTINF:-1 tvg-logo="https://www.sporteconomy.it/wp-content/uploads/2022/12/Campionato_mondiale_di_calcio_2026_logo.svg.png", Diretta Goal
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -39,26 +47,34 @@ https://www.guardaserie01.bio/
 https://calcio.best/page/risultati
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 https://calcio.best/page/contact
-#EXTINF:-1 tvg-logo="Logo non disponibile", Iraq
+#EXTINF:-1 tvg-logo="Logo non disponibile", MOTOGP
 VS
-Corea del Sud
-https://calcio.best/live/iraq-vs-corea-del-sud
-#EXTINF:-1 tvg-logo="Logo non disponibile", Spagna
+Aragón (Spagna)
+https://calcio.best/live/motogp-vs-arag-n-spagna-
+#EXTINF:-1 tvg-logo="Logo non disponibile", Bulgaria
 VS
-Francia
-https://calcio.best/live/spagna-vs-francia
-#EXTINF:-1 tvg-logo="Logo non disponibile", Ecuador
+Cipro
+https://calcio.best/live/bulgaria-vs-cipro
+#EXTINF:-1 tvg-logo="Logo non disponibile", Diretta Gol
 VS
-Brasile
-https://calcio.best/live/ecuador-vs-brasile
-#EXTINF:-1 tvg-logo="Logo non disponibile", Paraguay
+Qualificazioni Mondiali
+https://calcio.best/live/diretta-gol-vs-qualificazioni-mondiali
+#EXTINF:-1 tvg-logo="Logo non disponibile", Norvegia
 VS
-Uruguay
-https://calcio.best/live/paraguay-vs-uruguay
-#EXTINF:-1 tvg-logo="Logo non disponibile", Cile
+Italia
+https://calcio.best/live/norvegia-vs-italia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Macedonia del Nord
 VS
-Argentina
-https://calcio.best/live/cile-vs-argentina
+Belgio
+https://calcio.best/live/macedonia-del-nord-vs-belgio
+#EXTINF:-1 tvg-logo="Logo non disponibile", Colombia
+VS
+Perù
+https://calcio.best/live/colombia-vs-per-
+#EXTINF:-1 tvg-logo="Logo non disponibile", Venezuela
+VS
+Bolivia
+https://calcio.best/live/venezuela-vs-bolivia
 #EXTINF:-1 tvg-logo="Logo non disponibile", ATP - SINGOLARE
 VS
 Open di Francia ES1
