@@ -5,17 +5,9 @@
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220220/original/pngtree-television-logo-with-antena-png-image_7271918.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://www.gardaoutdoor.blog/wp-content/uploads/2021/11/logo-giro-2022-320x275.png", Giro d'Italia
+#EXTINF:-1 tvg-logo="https://external-preview.redd.it/ot-new-motogp-logo-brandings-v0-s-zLbJQl67qFig7gxd8UXCoXWq7qBJviHjW3AhaQMqY.jpg?width=640&crop=smart&auto=webp&s=3cad310b06e9adeac1924e3e339c3a21197f0eb6", Gp Spagna (libere e qualifiche)
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/f7/Roland_Garros.svg", Roland Garros
-
-#EXTINF:-1 tvg-logo="https://www.sporteconomy.it/wp-content/uploads/2022/12/Campionato_mondiale_di_calcio_2026_logo.svg.png", Diretta Goal
-
-#EXTINF:-1 tvg-logo="https://www.sporteconomy.it/wp-content/uploads/2022/12/Campionato_mondiale_di_calcio_2026_logo.svg.png", Norvegia - Italia
-
-#EXTINF:-1 tvg-logo="https://www.sporteconomy.it/wp-content/uploads/2022/12/Campionato_mondiale_di_calcio_2026_logo.svg.png", Macedonia del Nord - Belgio
-
-#EXTINF:-1 tvg-logo="https://external-preview.redd.it/ot-new-motogp-logo-brandings-v0-s-zLbJQl67qFig7gxd8UXCoXWq7qBJviHjW3AhaQMqY.jpg?width=640&crop=smart&auto=webp&s=3cad310b06e9adeac1924e3e339c3a21197f0eb6", Gp Spagna (libere e qualifiche)
 
 #EXTINF:-1 tvg-logo="https://www.sporteconomy.it/wp-content/uploads/2022/12/Campionato_mondiale_di_calcio_2026_logo.svg.png", Bosnia - San Marino
 
@@ -24,6 +16,8 @@
 #EXTINF:-1 tvg-logo="https://www.sporteconomy.it/wp-content/uploads/2022/12/Campionato_mondiale_di_calcio_2026_logo.svg.png", Malta - Lituania
 
 #EXTINF:-1 tvg-logo="https://www.sporteconomy.it/wp-content/uploads/2022/12/Campionato_mondiale_di_calcio_2026_logo.svg.png", Diretta Goal
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png", Pescara - Ternana
 
 #EXTINF:-1 tvg-logo="Logo non disponibile", Nome sconosciuto
 
@@ -51,30 +45,34 @@ https://calcio.best/page/contact
 VS
 Aragón (Spagna)
 https://calcio.best/live/motogp-vs-arag-n-spagna-
-#EXTINF:-1 tvg-logo="Logo non disponibile", Bulgaria
-VS
-Cipro
-https://calcio.best/live/bulgaria-vs-cipro
-#EXTINF:-1 tvg-logo="Logo non disponibile", Diretta Gol
-VS
-Qualificazioni Mondiali
-https://calcio.best/live/diretta-gol-vs-qualificazioni-mondiali
-#EXTINF:-1 tvg-logo="Logo non disponibile", Norvegia
-VS
-Italia
-https://calcio.best/live/norvegia-vs-italia
-#EXTINF:-1 tvg-logo="Logo non disponibile", Macedonia del Nord
-VS
-Belgio
-https://calcio.best/live/macedonia-del-nord-vs-belgio
-#EXTINF:-1 tvg-logo="Logo non disponibile", Colombia
-VS
-Perù
-https://calcio.best/live/colombia-vs-per-
 #EXTINF:-1 tvg-logo="Logo non disponibile", Venezuela
 VS
 Bolivia
 https://calcio.best/live/venezuela-vs-bolivia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Bosnia-Erzegovina
+VS
+San Marino
+https://calcio.best/live/bosnia-erzegovina-vs-san-marino
+#EXTINF:-1 tvg-logo="Logo non disponibile", Andorra
+VS
+Inghilterra
+https://calcio.best/live/andorra-vs-inghilterra
+#EXTINF:-1 tvg-logo="Logo non disponibile", Malta
+VS
+Lituania
+https://calcio.best/live/malta-vs-lituania
+#EXTINF:-1 tvg-logo="Logo non disponibile", Albania
+VS
+Serbia
+https://calcio.best/live/albania-vs-serbia
+#EXTINF:-1 tvg-logo="Logo non disponibile", Pescara
+VS
+Ternana
+https://calcio.best/live/pescara-vs-ternana
+#EXTINF:-1 tvg-logo="Logo non disponibile", Messico
+VS
+Svizzera
+https://calcio.best/live/messico-vs-svizzera
 #EXTINF:-1 tvg-logo="Logo non disponibile", ATP - SINGOLARE
 VS
 Open di Francia ES1
