@@ -5,9 +5,13 @@
 
 #EXTINF:-1 tvg-logo="https://ilcorriere.net/wp-content/uploads/2025/05/Vuelta-Espana-Logo.jpg", Vuelta
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2PFECZQl_ady5OQD_4yC_PHXKqTT6jm4IO1zcrICtN-b1-Q1oF398FxCe6IPtD9ifzgU&usqp=CAU", Germania - Slovenia
-
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/32/1/x-factor-logo-png_seeklogo-323920.png", X Factor
+
+#EXTINF:-1 tvg-logo="https://www.modaemotorimagazine.com/wp-content/uploads/2024/11/il-nuovo-logo-motogp-nuova-stagione-del-motociclismo-467518278_981455960682256_4650896594190468016_n.jpg", Gp San Marino (libere)
+
+#EXTINF:-1 tvg-logo="https://www.madbasket.com/16674-large_default/logo-eurobasket-2025.jpg", Germania - Finlandia
+
+#EXTINF:-1 tvg-logo="https://www.madbasket.com/16674-large_default/logo-eurobasket-2025.jpg", Grecia - Turchia
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/1200px-Bundesliga_-_Logo_2017.svg.png", Bayer Leverkusen - Eintracht Francoforte
 
@@ -20,4 +24,14 @@
 #EXTINF:-1 tvg-logo="https://www.aia-figc.it/media/news/25215/SerieA_ENILIVE_RGB.jpg", Juventus - Inter
 
 #EXTINF:-1 tvg-logo="https://www.aia-figc.it/media/news/25215/SerieA_ENILIVE_RGB.jpg", Fiorentina - Napoli
+
+#EXTINF:-1 tvg-logo="https://www.aia-figc.it/media/news/25215/SerieA_ENILIVE_RGB.jpg", Roma - Torino
+
+#EXTINF:-1 tvg-logo="https://www.aia-figc.it/media/news/25215/SerieA_ENILIVE_RGB.jpg", Atalanta - Lecce
+
+#EXTINF:-1 tvg-logo="https://www.aia-figc.it/media/news/25215/SerieA_ENILIVE_RGB.jpg", Pisa - Udinese
+
+#EXTINF:-1 tvg-logo="https://www.aia-figc.it/media/news/25215/SerieA_ENILIVE_RGB.jpg", Sassuolo - Lazio
+
+#EXTINF:-1 tvg-logo="https://www.aia-figc.it/media/news/25215/SerieA_ENILIVE_RGB.jpg", Milan - Bologna
 
