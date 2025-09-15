@@ -1,35 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://logowiki.net/wp-content/uploads/imgp/Hattrick-Logo-1-5512.jpg", Nome sconosciuto
 /
-#EXTINF:-1 tvg-logo="https://ilcorriere.net/wp-content/uploads/2025/05/Vuelta-Espana-Logo.jpg", Vuelta
-
-#EXTINF:-1 tvg-logo="https://ilcorriere.net/wp-content/uploads/2025/05/Vuelta-Espana-Logo.jpg", Vuelta
-
-#EXTINF:-1 tvg-logo="https://www.modaemotorimagazine.com/wp-content/uploads/2024/11/il-nuovo-logo-motogp-nuova-stagione-del-motociclismo-467518278_981455960682256_4650896594190468016_n.jpg", Gp San Marino (libere)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/2._Bundesliga_logo.svg/1200px-2._Bundesliga_logo.svg.png", Bayern Monaco - Amburgo
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png", Ath Bilbao - Alaves
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/2/premier-league-new-logo-png_seeklogo-286461.png", West Ham - Tottenham
-
-#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2021/08/eredivisie_logo-freelogovectors.net_.png", NEC - PSV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBYBIlfHfIyDZFwEEfCllhyai78SGyZPfo-w&s", Sampdoria - Cesena
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png", Fiorentina - Napoli
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png", Atl. Madrid - Villarreal
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/2/premier-league-new-logo-png_seeklogo-286461.png", Brentford - Chelsea
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png", Roma - Torino
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png", Atalanta - Lecce
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png", Pisa - Udinese
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png", Sassuolo - Lazio
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png", Sassuolo - Lazio
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png", Osasuna - Rayo V.
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFrFIIdYY2x0fUxGmJqgDZtdhWVnKGMafVZw&s", Turchia - Germania
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/960px-Serie_C_NOW_2024.png", Salernitana - Sorrento
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png", Milan - Bologna
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Ligue_1_2024.jpg", Rennes - Lione
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png", Barcellona - Valencia
 
