@@ -1,39 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://logowiki.net/wp-content/uploads/imgp/Hattrick-Logo-1-5512.jpg", Nome sconosciuto
 /
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Coccarda_Coppa_Italia.svg/1200px-Coccarda_Coppa_Italia.svg.png", Genoa - Empoli
+#EXTINF:-1 tvg-logo="https://www.modaemotorimagazine.com/wp-content/uploads/2024/11/il-nuovo-logo-motogp-nuova-stagione-del-motociclismo-467518278_981455960682256_4650896594190468016_n.jpg", Gp Giappone (libere)
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Coccarda_Coppa_Italia.svg/1200px-Coccarda_Coppa_Italia.svg.png", Genoa - Empoli
+#EXTINF:-1 tvg-logo="https://www.modaemotorimagazine.com/wp-content/uploads/2024/11/il-nuovo-logo-motogp-nuova-stagione-del-motociclismo-467518278_981455960682256_4650896594190468016_n.jpg", Gp Giappone (libere)
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Cittadella - Lumezzane
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png", Getafe - Levante
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRaZZI3bYrCWhUD_nmPIam4pJ3w828FoT7w&s", Lille - Brann
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Como - Cremonese
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRaZZI3bYrCWhUD_nmPIam4pJ3w828FoT7w&s", Go Ahead Eagles - Steaua Bucarest
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png", Atl Madrid - Real Madrid
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Inter U23 - Triestina
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Atalanta - Juventus
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Union Brescia - Novara
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png", Maiorca - Alaves
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Dolomiti Bellunesi - Vicenza
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Cagliari - Inter
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Pro Vercelli - Lecco
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRaZZI3bYrCWhUD_nmPIam4pJ3w828FoT7w&s", Diretta Goal
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRaZZI3bYrCWhUD_nmPIam4pJ3w828FoT7w&s", Aston Villa - Bologna
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRaZZI3bYrCWhUD_nmPIam4pJ3w828FoT7w&s", Utrecht - Lione
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRaZZI3bYrCWhUD_nmPIam4pJ3w828FoT7w&s", Stoccarda - Celta
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRaZZI3bYrCWhUD_nmPIam4pJ3w828FoT7w&s", Rangers - Genk
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRaZZI3bYrCWhUD_nmPIam4pJ3w828FoT7w&s", Salisburgo - Porto
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRaZZI3bYrCWhUD_nmPIam4pJ3w828FoT7w&s", Young Boys - Panathinaikos
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Coccarda_Coppa_Italia.svg/1200px-Coccarda_Coppa_Italia.svg.png", Torino - Pisa
-
-#EXTINF:-1 tvg-logo="https://external-preview.redd.it/ot-new-motogp-logo-brandings-v0-s-zLbJQl67qFig7gxd8UXCoXWq7qBJviHjW3AhaQMqY.jpg?width=640&crop=smart&auto=webp&s=3cad310b06e9adeac1924e3e339c3a21197f0eb6", Gp Giappone (libere)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png", Villarreal - Athletic B.
 
