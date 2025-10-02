@@ -1,43 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://logowiki.net/wp-content/uploads/imgp/Hattrick-Logo-1-5512.jpg", Nome sconosciuto
 /
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/UYL_2015_Logo.png", Atalanta - Bruges
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/UYL_2015_Logo.png", Atalanta - Bruges
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Diretta Goal
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Atalanta - Bruges
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Kairat - Real Madrid
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc4JJn1YiaNoPGJHVcgw10vQvx2le4Nc4k1g&s", Stella Rossa - Milano
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc4JJn1YiaNoPGJHVcgw10vQvx2le4Nc4k1g&s", Virtus Bologna - Real Madrid
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png", Diretta Goal
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png", Diretta Goal
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png", Entella - Bari
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png", Sampdoria - Catanzaro
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png", Palermo - Venezia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png", Empoli - Monza
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png", Padova - Avellino
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png", Juve Stabia - Mantova
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png", Pescara - Sudtirol
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Diretta Goal
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Inter - Sparta Praga
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Villarreal - Juventus
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Galatasaray - Liverpool
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Napoli - Sporting Lisbona
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Chelsea - Benfica
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Barcellona - PSG
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", BodÃ¸ Glimt - Tottenham
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Monaco - Man City
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Papos - Bayern Monaco
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Borussia Dortmund - Athletic Club
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Marsiglia - Ajax
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Bayer Leverkusen - PSV
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", AtlÃ©tico Madrid - Eintracht Frankfurt
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s", Arsenal - Olimpiacos
 
