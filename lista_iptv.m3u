@@ -1,35 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://logowiki.net/wp-content/uploads/imgp/Hattrick-Logo-1-5512.jpg", Nome sconosciuto
 /
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png", Gp Singapore (libere 2)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png", Gp Singapore (libere 2)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/2._Bundesliga_logo.svg/1200px-2._Bundesliga_logo.svg.png", Bundesliga 2 Multicast
-
-#EXTINF:-1 tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png", Zalgiris Kaunas - Fenerbahce
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8JG2yaz9FM-_sv_FmghM2I18wYJWVyj-fgg&s", NAC Breda - Groningen
-
-#EXTINF:-1 tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png", Panathinaikos - Barcelona
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png", Hoffenheim - KÃ¶ln
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Serie_C_sky_wifi_2025-2026.png/250px-Serie_C_sky_wifi_2025-2026.png", Latina - Benevento
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Serie_C_sky_wifi_2025-2026.png/250px-Serie_C_sky_wifi_2025-2026.png", Pianese - Livorno
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Serie_C_sky_wifi_2025-2026.png/250px-Serie_C_sky_wifi_2025-2026.png", Rimini - Arezzo
-
-#EXTINF:-1 tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png", Valencia - Virtus Bologna
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Verona - Sassuolo
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Ligue_1_2024.jpg", Paris - Lorient
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png", Osanuna - Getafe
-
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/10/Premier-League-logo-symbol.png", AFC Bournemouth - Fulham
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ154rW3MPQbtyvJgy_y8kwRDxPa8FYZXe3Tw&s", GP Indonesia (libere)
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ154rW3MPQbtyvJgy_y8kwRDxPa8FYZXe3Tw&s", GP Indonesia (libere)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png", Gp Singapore (qualifiche)
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Inter - Cremonese
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPHBNBld7Rxy-JrxWl6abwNlf0pRbOkRw9cmjl60Ic6H9XcE_jjKEJ3Ezw__VY05ADMc4&usqp=CAU", Chelsea - Liverpool
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png", Ath Bilbao - Mallorca
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/1200px-Bundesliga_-_Logo_2017.svg.png", Eintracht Fr. - Bayern Monaco
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Atalanta - Como
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png", Real Madrid - Villarreal
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Udinese - Cagliari
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Fiorentina - Roma
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Napoli - Genoa
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Juventus - Milan
 
