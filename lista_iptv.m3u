@@ -1,21 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://logowiki.net/wp-content/uploads/imgp/Hattrick-Logo-1-5512.jpg", Nome sconosciuto
 /
-#EXTINF:-1 tvg-logo="https://www.dafont.com/forum/attach/orig/1/1/1188480.png?1", Six Kings Slam
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1801/1801781.png", Canali On Line
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1801/1801781.png", Canali On Line
 
 #EXTINF:-1 tvg-logo="https://www.dafont.com/forum/attach/orig/1/1/1188480.png?1", Six Kings Slam
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/7xjtuy1554397263.png", Virtus Bologna - Monaco
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/7xjtuy1554397263.png", Zalgiris - Milano
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/32/1/x-factor-logo-png_seeklogo-323920.png", X Factor
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/2._Bundesliga_logo.svg", Hannover - Schalke 04
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1280px-F1.svg.png", GP USA (libere 1)
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/7xjtuy1554397263.png", Asvel - Virtus Bologna
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png", Entella - Sampdoria
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png", Alcione - Inter U23
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Ligue_1_2024.jpg", PSG - Strasburgo
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/EFL_Championship_Logo.svg/920px-EFL_Championship_Logo.svg.png", Middlesbrough - Ipswich Town
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1280px-F1.svg.png", GP USA (sprint race)
 
@@ -45,15 +53,17 @@
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s", Crystal Palace - AFC Bournemouth
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png", Juve Stabia - Avellino
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Torino â Napoli
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/1200px-Bundesliga_-_Logo_2017.svg.png", Bayern Monaco - Borussia Dt
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s", Fulham - Arsenal
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s", PSV vs Go Ahead Eagles
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5c/7e/7b/5c7e7b70cd67fa9a59d626a7efdf3a19.jpg", PSV - Go Ahead Eagles
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Roma - Inter
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s", Ajax - AZ
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5c/7e/7b/5c7e7b70cd67fa9a59d626a7efdf3a19.jpg", Ajax - AZ
 
