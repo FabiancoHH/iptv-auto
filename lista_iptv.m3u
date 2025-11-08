@@ -5,33 +5,45 @@
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1801/1801781.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpxMimBqFs_gvJcZd8WlR9eJLi64PDPBNekg&s", Sassari - Cantu
-
-#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/687/150/339/baloncesto-malaga-2017-18-euroleague-eurocup-basketball-2018-19-euroleague-bc-%C5%BDalgiris-basketball-thumbnail.jpg", Baskonia - Virtus Bologna
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRaZZI3bYrCWhUD_nmPIam4pJ3w828FoT7w&s", Diretta Goal
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRaZZI3bYrCWhUD_nmPIam4pJ3w828FoT7w&s", Rangers - Roma
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRaZZI3bYrCWhUD_nmPIam4pJ3w828FoT7w&s", Bologna - Brann
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/32/1/x-factor-logo-png_seeklogo-323920.png", X Factor
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ154rW3MPQbtyvJgy_y8kwRDxPa8FYZXe3Tw&s", Gp Indonesia (libere 1/2)
-
-#EXTINF:-1 tvg-logo="https://cdn-4.motorsport.com/images/amp/68ey3q40/s3/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg", Gp Brasile (libere 1)
-
-#EXTINF:-1 tvg-logo="https://cdn-4.motorsport.com/images/amp/68ey3q40/s3/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg", Gp Brasile (Qualifiche Sprint)
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRelws4PsUHm7qa--FCbWEm9ZdzXHZBl-I7ZA&s", Fiorentina - Roma F.
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png", Spezia - Bari
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/1200px-Bundesliga_-_Logo_2017.svg.png", Werder Brema - Wolfsburg
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png", Campobasso - Samb.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png", Ascoli - Gubbio
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png", Campobasso - Samb
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Pisa - Cremonese
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpxMimBqFs_gvJcZd8WlR9eJLi64PDPBNekg&s", Reggio Emilia - Treviso
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png", Elche - Real Sociedad
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ154rW3MPQbtyvJgy_y8kwRDxPa8FYZXe3Tw&s", Gp Portogallo (libere e qualifiche)
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/2/premier-league-new-logo-png_seeklogo-286461.png", Tottenham - Manchester United
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png", Girona - Alaves
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Diretta Goal
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Como - Cagliari
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s", Lecce - Verona
+
+#EXTINF:-1 tvg-logo="https://cdn-4.motorsport.com/images/amp/68ey3q40/s3/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg", Gp Brasile (Sprint Race)
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/2/premier-league-new-logo-png_seeklogo-286461.png", Everton - Fulham
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png", Siviglia - Osasuna
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png", Juve Stabia - Palermo
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Ligue_1_2024.jpg", Le Havre - Nantes
+
+#EXTINF:-1 tvg-logo="https://cdn-4.motorsport.com/images/amp/68ey3q40/s3/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg", Gp Brasile (qualifiche)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png", Venezia - Samp
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Ligue_1_2024.jpg", Monaco - Lens
 
