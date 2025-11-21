@@ -5,10 +5,6 @@
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1801/1801781.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://www.stadiumrimini.net/uploads/images/498/sito_header_solologo1614245076_c.1614245089.png", Conegliano - Busto A.
-
-#EXTINF:-1 tvg-logo="https://www.backdoorpodcast.com/wp-content/uploads/2020/07/Eurocup-logo.png", Venezia - Manresa
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/28/Campionato_mondiale_di_calcio_2026_logo.svg/1749px-Campionato_mondiale_di_calcio_2026_logo.svg.png", Sorteggi Play Offs
 
 #EXTINF:-1 tvg-logo="https://img.vavel.com/eurolega-1602189756506.jpg", Milano - Hapoel T.
@@ -23,13 +19,23 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Ligue_1_2024.jpg", Nizza - Marsiglia
 
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Valencia - Levante
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4jzsvd1755765302.png", Genoa - Napoli
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s", Burnley - Chelsea
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/966px-Serie_A.svg.png", Diretta Goal
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/966px-Serie_A.svg.png", Udinese - Bologna
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s", Liverpool - Nottingham Forest
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmlCqdyx76Tp8314RzxDb0guAiGh1bCmxneA&s", Padova - Venezia
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/966px-Serie_A.svg.png", Fiorentina - Juventus
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s", Newcastle - Man City
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmlCqdyx76Tp8314RzxDb0guAiGh1bCmxneA&s", Bari - Frosinone
 
