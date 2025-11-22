@@ -5,11 +5,9 @@
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1801/1801781.png", Canali On Line
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/28/Campionato_mondiale_di_calcio_2026_logo.svg/1749px-Campionato_mondiale_di_calcio_2026_logo.svg.png", Sorteggi Play Offs
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/2._Bundesliga_logo.svg/1200px-2._Bundesliga_logo.svg.png", Multicast
 
-#EXTINF:-1 tvg-logo="https://img.vavel.com/eurolega-1602189756506.jpg", Milano - Hapoel T.
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/32/1/x-factor-logo-png_seeklogo-323920.png", X Factor
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/2._Bundesliga_logo.svg/1200px-2._Bundesliga_logo.svg.png", Hertha Berlino - Eintracht Braunschweig
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmlCqdyx76Tp8314RzxDb0guAiGh1bCmxneA&s", Catanzaro - Pescara
 
@@ -17,17 +15,27 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/960px-Serie_C_NOW_2024.png", Cerignola - Crotone
 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/7xjtuy1554397263.png", Virtus Bologna - Maccabi Tel Aviv
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Ligue_1_2024.jpg", Nizza - Marsiglia
 
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png", Valencia - Levante
 
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2025/06/F1-02.png", GP Las Vegas (libere 3)
+
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2025/06/F1-02.png", GP Las Vegas (qualifiche)
+
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4jzsvd1755765302.png", Genoa - Napoli
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/2._Bundesliga_logo.svg/1200px-2._Bundesliga_logo.svg.png", Paderborn - Hannover
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s", Burnley - Chelsea
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/966px-Serie_A.svg.png", Diretta Goal
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/966px-Serie_A.svg.png", Udinese - Bologna
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/966px-Serie_A.svg.png", Cagliari - Udinese
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s", Liverpool - Nottingham Forest
 
@@ -40,4 +48,6 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmlCqdyx76Tp8314RzxDb0guAiGh1bCmxneA&s", Bari - Frosinone
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/966px-Serie_A.svg.png", Napoli - Atalanta
+
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2025/06/F1-02.png", GP Las Vegas
 
